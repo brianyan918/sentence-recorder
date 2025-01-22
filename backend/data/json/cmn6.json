@@ -1,0 +1,252 @@
+[
+    {
+        "sentenceId": "1814",
+        "codeSwitchedSentence": "Hydrogen ions 是 失去了 their electrons 的 protons (since Hydrogen atoms consist of one proton 和 one electron).",
+        "reference": "氢离子是失去了电子的质子（因为氢原子由一个质子和一个电子组成）。"
+    },
+    {
+        "sentenceId": "1953",
+        "codeSwitchedSentence": "他随后被转送到Addenbrooke's Hospital在Cambridge。",
+        "reference": "他随后被转送到剑桥的阿登布鲁克医院。"
+    },
+    {
+        "sentenceId": "1917",
+        "codeSwitchedSentence": "罗马各地安装了Several large电视screens，供people观看ceremony。",
+        "reference": "罗马各地安装了数个大型电视屏幕，供人们观看仪式。"
+    },
+    {
+        "sentenceId": "1945",
+        "codeSwitchedSentence": "Casablanca 是全摩洛哥最 least interesting 的购物地之一。",
+        "reference": "卡萨布兰卡是全摩洛哥最无趣的购物地之一。"
+    },
+    {
+        "sentenceId": "1768",
+        "codeSwitchedSentence": "为了让tourists更好地了解建筑群的原貌，most of the buildings on the edges of the complex都经过reconstruction。",
+        "reference": "为了让游客更好地了解建筑群的原貌，该建筑群边缘的大部分建筑都经过重建。"
+    },
+    {
+        "sentenceId": "1795",
+        "codeSwitchedSentence": "自 1988 年以来，ballot boxes 必须是transparent的，这样选民和observers才能看到在投票开始时没有envelopes，并且除了那些及时统计过、有权投票的选民以外，没有其他人添加envelopes。",
+        "reference": "自 1988 年以来，投票箱就必须是透明的，这样选民和观察员才能看到投票开始时箱内没有信封，还能看到除了那些及时统计过、有权投票的选民以外，没有其他人向箱内投入信封。"
+    },
+    {
+        "sentenceId": "1742",
+        "codeSwitchedSentence": "香港岛是Hong Kong地区的代名词，也是众多游客心目中的main focus所在。",
+        "reference": "香港岛是香港地区的代名词，也是众多游客心目中的焦点所在。"
+    },
+    {
+        "sentenceId": "1678",
+        "codeSwitchedSentence": "Oliver Sacks 在他的论文《The President's Speech》中指出，那些因为brain damage 而无法理解language的人仍然能够accurately 判断说话人是否有sincerity。",
+        "reference": "奥利弗·萨克斯 (Oliver Sacks) 在他的论文《总统的演讲》中指出，那些因为脑损伤而无法理解语言的人仍然能够准确地判断说话人是否有诚意。"
+    },
+    {
+        "sentenceId": "1944",
+        "codeSwitchedSentence": "这些海滩有时挤满了family，沿岸排列着各种各样的shops。游泳很safe。",
+        "reference": "这些海滩有时挤满了度假的家庭，沿岸排列着各种各样的商店。 游泳很安全。"
+    },
+    {
+        "sentenceId": "1887",
+        "codeSwitchedSentence": "利金斯在医院工作时，began 在 spare time investigate premature labor。",
+        "reference": "利金斯 (Liggins) 在医院工作时，开始在业余时间研究早产。"
+    },
+    {
+        "sentenceId": "1909",
+        "codeSwitchedSentence": "Virtual teams 需要坚持与 conventional teams 同样的 standards of excellence，但也有细微的差别。",
+        "reference": "虚拟团队需要坚持与传统团队同样的质量标准，但也有细微的差别。"
+    },
+    {
+        "sentenceId": "1666",
+        "codeSwitchedSentence": "You may also wish 咨询 the advice of governments other than your own, but their advice 是为 their 公民而制定的。",
+        "reference": "你也可以咨询除贵国以外其他政府的建议，但他们的建议是为他们的公民而制定的。"
+    },
+    {
+        "sentenceId": "1915",
+        "codeSwitchedSentence": "You 可以乘坐 boda-boda (motorcycle taxi) 游览 Goma. 短途车程的 normal (local) 价格是 ~500 Congolese Francs.",
+        "reference": "你可以乘坐 boda-boda（出租的摩托车）游览戈马（Goma）。短途车程的正常（当地）价格是 500 刚果法郎。"
+    },
+    {
+        "sentenceId": "1976",
+        "codeSwitchedSentence": "中局的Middle order batsmen，萨钦·Sachin和拉胡尔·德拉维德表现出色，搭档取得了100跑的partnership。",
+        "reference": "中局击球手萨钦·坦杜尔卡和拉胡尔·德拉维德表现出色，搭档取得了 100 跑的成绩。"
+    },
+    {
+        "sentenceId": "1750",
+        "codeSwitchedSentence": "The find 也 有助于 深入 insight into the evolution of feathers in birds.",
+        "reference": "这一发现也有助于深入了解鸟类羽毛的进化。"
+    },
+    {
+        "sentenceId": "1993",
+        "codeSwitchedSentence": "亚热带风暴杰瑞 (Jerry) 今天在 Atlantic Ocean 形成，这是大西洋飓风季节中第十个被命名的风暴。",
+        "reference": "亚热带风暴杰瑞 (Jerry) 今天在大西洋形成，这是大西洋飓风季节中第十个被命名的风暴。"
+    },
+    {
+        "sentenceId": "1670",
+        "codeSwitchedSentence": "“它们的thermal behavior不像地球上的大型caves那么稳定，这些caves通常会保持相当恒定的温度，但它们与地下深穴的情况很相似，”亚利桑那州旗杆镇美国地质Survey (USGS) Astrogeology Team和北亚利桑那大学的Glen Cushing说道。",
+        "reference": "“它们的热行为不像地球上的大型洞穴那么稳定，这些大型洞穴通常会保持相当恒定的温度，但它们与地下深穴的情况很相似，”亚利桑那州旗杆镇美国地质调查局 (USGS) 太空地质团队和北亚利桑那大学的格伦·库欣说道。"
+    },
+    {
+        "sentenceId": "1920",
+        "codeSwitchedSentence": "他们通常会提供特别的食品、饮料和娱乐 entertainment offers，让客人保持愉悦，留在赌场 premise。",
+        "reference": "他们通常会提供特别的食品、饮料和娱乐活动，让客人保持愉悦，留在赌场。"
+    },
+    {
+        "sentenceId": "1848",
+        "codeSwitchedSentence": "昨日morning，Turkey Gaziantep的police headquarters发生了一起car bomb爆炸事件，killed two名police officers和injured超过20人。",
+        "reference": "昨日上午，土耳其加齐安泰普（Gaziantep）的警察总部发生了一起汽车炸弹爆炸事件，该事件导致两名警察死亡，20 余人受伤。"
+    },
+    {
+        "sentenceId": "1994",
+        "codeSwitchedSentence": "毋庸置疑的是，如果你会讲一门Romance language，那么学习Portuguese会更加容易。",
+        "reference": "毋庸置疑的是，如果你会讲一门罗曼语，那么学习葡萄牙语会更加容易。"
+    },
+    {
+        "sentenceId": "1828",
+        "codeSwitchedSentence": "在Internet上search“Hostile environment course”，probably能provide the address of a local company.",
+        "reference": "在互联网上搜索“应对敌对环境课程”，也许能找到提供培训的当地公司的地址。"
+    },
+    {
+        "sentenceId": "1896",
+        "codeSwitchedSentence": "USA Gymnastics 和 USOC 有一个共同的目标，那就是尽可能保证 gymnastics 和其他运动的安全性，让运动员在安全、积极和充满支持的环境中追求他们的梦想。",
+        "reference": "美国体操协会和美国奥委会有一个共同的目标，那就是尽可能保证体操运动和其他运动的安全性，让运动员在安全、积极和充满支持的环境中追求他们的梦想。"
+    },
+    {
+        "sentenceId": "1878",
+        "codeSwitchedSentence": "The church 的中央集权制在 Rome 存在了一千多年，这种 concentration of power and money 让许多人开始质疑，他们是否遵守了这一 tenet。",
+        "reference": "教会中央集权制在罗马存在了一千多年，这种权力和金钱的集中让许多人开始质疑，他们是否遵守了这一信条。"
+    },
+    {
+        "sentenceId": "1682",
+        "codeSwitchedSentence": "While no one 确定 谁 wrote it, 知道 that early in its life, the 大型 羊皮纸 document (尺寸为 29¾ inches 乘以 24½ inches) 被 rolled up for storage.",
+        "reference": "虽然没有人能确定作者是谁，但这个大型羊皮纸文档（尺寸为 29¾ 英寸乘以 24½ 英寸）据称在刚写成的时候是卷起来存放的。"
+    },
+    {
+        "sentenceId": "1892",
+        "codeSwitchedSentence": "This 是 the place the British colonisers took as their own, 所以 if you 想寻找 evidence of the territory's colonial past, this 是 a good place to start.",
+        "reference": "这里是英国殖民者占领的地方，所以如果你想寻找这片领土殖民历史的证据，这里是一个很好的起点。"
+    },
+    {
+        "sentenceId": "1696",
+        "codeSwitchedSentence": "该大学的研究人员表示，这两种compounds相互作用形成的crystals可能会影响kidney function。",
+        "reference": "该大学的研究人员表示，这两种化合物相互作用形成的晶体可能会造成肾脏功能障碍。"
+    },
+    {
+        "sentenceId": "1863",
+        "codeSwitchedSentence": "西藏的 Tibetan meditation 核心活动是天 Yoga。通过 visualization 的不同神明，净化 energy channels，激活 chakras，从而达到 enlightenment consciousness 的境界。",
+        "reference": "西藏冥想的核心活动是天瑜伽。通过把不同的神形象化，净化能量通道，激活轮穴，从而达到顿悟的境界。"
+    },
+    {
+        "sentenceId": "1871",
+        "codeSwitchedSentence": "在 the Middle East warm 的 climate 中，the house 并不是 so important。",
+        "reference": "在中东温暖的气候中，房子并不是多重要。"
+    },
+    {
+        "sentenceId": "1808",
+        "codeSwitchedSentence": "With two years of the 战争 end, the former 盟友 were now 敌人, the 冷 War began.",
+        "reference": "战争结束两年后，曾经的盟友如今成了敌人，冷战随即开始。"
+    },
+    {
+        "sentenceId": "1827",
+        "codeSwitchedSentence": "地壳的crust在近side厚about 70公里，而在远side厚about 100公里。",
+        "reference": "地壳近侧厚约 70 公里，远侧厚约 100 公里。"
+    },
+    {
+        "sentenceId": "1981",
+        "codeSwitchedSentence": "If you 只 是在 乘船 excursions 的情况下 go ashore, 则 you will not 需要 a separate visa (规定截至 2009 年).",
+        "reference": "如果只是在乘船游览的情况下登岸，则不需要单独的签证（规定截至 2009 年）。"
+    },
+    {
+        "sentenceId": "1948",
+        "codeSwitchedSentence": "The Three Kingdoms 是中国古代历史上最 bloodiest 的时代之一。Thousands of 人为了争夺西安 grand palace 最高的 seat 而死去。",
+        "reference": "三国是中国古代历史上最血腥的时代之一。成千上万的人为了争夺西安豪华宫殿最高的权力而死去。"
+    },
+    {
+        "sentenceId": "1769",
+        "codeSwitchedSentence": "Built by the Egyptians in the third century BCE, the Great Pyramid 是 众多 向 已故 Pharaoh 表示敬意 的 大型 pyramid structures 的 其中 之一。",
+        "reference": "大金字塔是埃及人在公元前三世纪的杰作，它是众多向已故法老表示敬意的大型金字塔的其中之一。"
+    },
+    {
+        "sentenceId": "1965",
+        "codeSwitchedSentence": "这里几乎都是sandy beaches，游泳很safe，大部分地方都有pohutukawa trees的树荫。",
+        "reference": "这里几乎都是沙滩，游泳很安全，大部分地方都有新西兰圣诞树的树荫。"
+    },
+    {
+        "sentenceId": "1810",
+        "codeSwitchedSentence": "California 州长 Arnold Schwarzenegger 签署了一项法案，禁止向 minors 出售或出租 violent video games。",
+        "reference": "加利福尼亚州长阿诺德·施瓦辛格签署了一项法案，禁止向未成年人出售或出租暴力电子游戏。"
+    },
+    {
+        "sentenceId": "1758",
+        "codeSwitchedSentence": "The archipelago lies 南极半岛以北 120 公里处。The largest Island is 乔治国王岛 with the settlement of Villa Las Estrellas.",
+        "reference": "该群岛位于南极半岛以北 120 公里处。最大的岛屿是乔治国王岛，这里是“繁星村（Villa Las Estrellas）”的定居点。"
+    },
+    {
+        "sentenceId": "1713",
+        "codeSwitchedSentence": "While Goma 还算 safe，但任何 visits outside of Goma 都应该事先调查，以便了解北基伍省持续的战斗有没有缓和。",
+        "reference": "尽管戈马还算安全，但前往戈马以外的任何地方都应该事先调查，以便了解北基伍省持续的战斗有没有缓和。"
+    },
+    {
+        "sentenceId": "1988",
+        "codeSwitchedSentence": "During the 1920s, 大多市民的 prevailing 态度是和平主义的、分离主义的。",
+        "reference": "在 20 世纪 20 年代，大多市民的主流态度是和平主义的、分离主义的。"
+    },
+    {
+        "sentenceId": "1895",
+        "codeSwitchedSentence": "As Greek knowledge 的 衰落, the West found itself cut off from its Greek philosophical 和 scientific roots.",
+        "reference": "随着希腊知识的衰落，西方脱离了其希腊哲学和科学根源。"
+    },
+    {
+        "sentenceId": "1910",
+        "codeSwitchedSentence": "Parisians 是出了名的自我中心、rude 和傲慢。",
+        "reference": "巴黎人是出了名的以自我中心、粗鲁和傲慢。"
+    },
+    {
+        "sentenceId": "1903",
+        "codeSwitchedSentence": "当所有available资源在一个organization的functional部门之间得到effectively利用时，creativity和ingenuity就会发生。",
+        "reference": "当所有可用的资源在一个组织的职能部门之间得到有效利用时，创造力和独创性就会发生。"
+    },
+    {
+        "sentenceId": "1913",
+        "codeSwitchedSentence": "老虎的roar不像狮子的full-voiced roar那样深沉，而更像一句snarly，shouted的sentence。",
+        "reference": "老虎的咆哮不像狮子的咆哮那样深沉，而更像一句生气嘶吼的话语。"
+    },
+    {
+        "sentenceId": "1689",
+        "codeSwitchedSentence": "Europe 是一个 continent，面积相对 small，但有着 many independent countries。在 normal circumstances 下，travelling through multiple countries 意味着必须 multiple times 经过 visa applications 和 passport control。",
+        "reference": "欧洲是片面积相对较小但有着许多独立国家的大陆。在通常情况下，穿越多个国家旅行意味着必须多次经历签证申请和护照检查。"
+    },
+    {
+        "sentenceId": "1760",
+        "codeSwitchedSentence": "Mosasaurus 是那个时代的 apex predator，所以它什么都不怕，除了其他的 mosasaurs。",
+        "reference": "沧龙是那个时代的顶级掠食者，除了同类它什么都不怕。"
+    },
+    {
+        "sentenceId": "1800",
+        "codeSwitchedSentence": "The 大桥 is scheduled to be fully operational in 2017 年 9 月, when the Brazilian 海关 checkpoints are expected to be 完工.",
+        "reference": "大桥预计将于 2017 年 9 月全面投入使用，届时巴西海关检查站预计也将完工。"
+    },
+    {
+        "sentenceId": "1797",
+        "codeSwitchedSentence": "Everyone 都是社会的一份子，都会使用 transportation systems. 而 almost everyone 对交通系统有怨言。",
+        "reference": "每个人都是社会的一份子，都会使用交通系统。而几乎每个人都对交通系统有怨言。"
+    },
+    {
+        "sentenceId": "1833",
+        "codeSwitchedSentence": "Aristotle, a 哲学家, theorised that everything is made up of a mixture of one or more of four elements: 土, 水, 空气, and fire.",
+        "reference": "哲学家亚里士多德提出一种理论，即任何事物都是由土、水、空气和火四种元素中的一种或多种组成的。"
+    },
+    {
+        "sentenceId": "1710",
+        "codeSwitchedSentence": "Last week, METI announced that Apple informed it of 34 additional overheating incidents, which the company 称这些事故“non-serious”。",
+        "reference": "上周，日本经济产业省 (METI) 宣布，苹果公司向该部门通报另外 34 起过热造成的事故，尽管该公司称这些事故“并不严重”。"
+    },
+    {
+        "sentenceId": "1726",
+        "codeSwitchedSentence": "Field trips 是任何 教学活动 的重要组成部分。Quite often 老师 会很乐意 带她的学生去 那些 公交车 无法到达 的地方。",
+        "reference": "实地考察是任何教学活动的重要组成部分。通常，老师会很乐意带学生去那些公交车无法到达的地方。"
+    },
+    {
+        "sentenceId": "1962",
+        "codeSwitchedSentence": "pH level 是通过在被测 chemical 中氢（pH 中的 H）离子的数量来表示的。",
+        "reference": "pH 值以被测化学品中的氢（pH 中的 H）离子数量表示。"
+    }
+]

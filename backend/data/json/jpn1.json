@@ -1,0 +1,252 @@
+[
+    {
+        "sentenceId": "1901",
+        "codeSwitchedSentence": "Although AI は science fiction の strong connotation を has しているものの、AI は computer science における a very important branch を forms し、行動, learning および intelligent adaptation を machine で dealing with しています。",
+        "reference": "AIはSF的な意味合いが強いものの、コンピュータサイエンスにおける非常に重要な分野を形成しており、行動、学習、知的適応を機械で処理します。"
+    },
+    {
+        "sentenceId": "1916",
+        "codeSwitchedSentence": "ドイツの baked goods の多くは、almonds や hazelnuts などの tree nuts を使っています。人気のある cakes は、特に strong coffee の cup とよく合います。",
+        "reference": "ドイツの焼き菓子の多くは、アーモンドやヘーゼルナッツなどの木の実を使っています。人気のあるケーキは、特に強いコーヒーとよく合います。"
+    },
+    {
+        "sentenceId": "1688",
+        "codeSwitchedSentence": "The job of 海軍 has traditionally been to ensure that your country maintains the ability to move your people and goods, while at the same time, 敵国民や物資を move する ability を確実に interfering することでした。",
+        "reference": "従来より、海軍の仕事は、自国民や物資を輸送する能力を維持すると同時に、敵国民や物資を輸送する能力を確実に妨害することでした。"
+    },
+    {
+        "sentenceId": "1801",
+        "codeSwitchedSentence": "香港のskylineを描いて立ち並ぶbuildingsのparadeは、ビクトリア・Harbourのwatersのpresenceによって、glitteringなbar chartにlikenedされています。",
+        "reference": "香港の地平線を描いて立ち並ぶビル群は、ビクトリア・ハーバーの水の存在によって、きらびやかな棒グラフに例えられています。"
+    },
+    {
+        "sentenceId": "1961",
+        "codeSwitchedSentence": "One of the most common 方法 used to illustrate the importance of socialization is to 成長過程で、neglect、misfortune、または wilful abuse によって、大人によって社会化されなかった子供たちの数少ない不幸な cases を取りあげることです。",
+        "reference": "社会化の重要性を示すために用いられる最も一般的な方法の1つは、育児放棄、不運、または故意の虐待によって、成長過程で大人によって社会への適応が阻まれた子供たちの数少ない不幸な事例を取りあげることです。"
+    },
+    {
+        "sentenceId": "1888",
+        "codeSwitchedSentence": "Re-entry ショック は culture ショック よりも sooner に訪れ、honeymoon phase が less で、lasts longer し、more severe な症状があることがあります。",
+        "reference": "再入国ショックは（新婚旅行の時期が少ない）カルチャーショックよりも早く訪れ、長引き、より症状が悪化することがあります。"
+    },
+    {
+        "sentenceId": "1712",
+        "codeSwitchedSentence": "1966年からthe Sundarbansはwildlife sanctuaryとなり、現在では推定で400頭のRoyal Bengal tigersと約30,000頭のspotted deerが生息しています。",
+        "reference": "1966年からスンダルバンスは野生動物保護区となり、現在では推定で400頭のロイヤルベンガルトラと約30,000頭のアクシスジカが生息しています。"
+    },
+    {
+        "sentenceId": "1854",
+        "codeSwitchedSentence": "車両 itself は同日のグリニッジ標準時 1200 GMT に accident の scene から the vehicle が taken away されました。",
+        "reference": "車両自体は同日のグリニッジ標準時12:00頃に事故現場から持ち去られました。"
+    },
+    {
+        "sentenceId": "1933",
+        "codeSwitchedSentence": "最後に、多数の小さい獲物を餌とする小型の猫（loose pet catsを含む）が昆虫、げっ歯類、トカゲ、鳥といったはるかに数多く生息しています。",
+        "reference": "最後に、昆虫、げっ歯類、トカゲ、鳥といったはるかに多数の小さい獲物を餌とする小型の猫（野良猫を含む）が数多く生息しています。"
+    },
+    {
+        "sentenceId": "1967",
+        "codeSwitchedSentence": "レイトン氏は首相とのmeetingでConservative partyのenvironmental billに対する変更を求め、「thorough and complete rewriting」を要求しました。",
+        "reference": "レイトン氏は首相との会談で保守党の環境法案に対する変更を求め、保守党の環境法案の「徹底的かつ完全な書き直し」を求めました。"
+    },
+    {
+        "sentenceId": "2005",
+        "codeSwitchedSentence": "しかし、there are a lot of things about birds that still look like a 恐竜です。",
+        "reference": "しかし、現在も鳥の外観は多くの点で恐竜に似ています。"
+    },
+    {
+        "sentenceId": "1736",
+        "codeSwitchedSentence": "ロランド・メンドーサはM16 rifleでtouristsに発砲しました。",
+        "reference": "ロランド・メンドーサはM16ライフルで観光客に発砲しました。"
+    },
+    {
+        "sentenceId": "1812",
+        "codeSwitchedSentence": "実験的なvaccineでEbolaの死亡率が減るように見えますが、今までのところ、既存のinfectionの治療に適しているとはっきり実証されたdrugsはありません。",
+        "reference": "実験的なワクチンでエボラの死亡率が減るように見えますが、今までのところ、既存の感染症の治療に適しているとはっきり実証された薬剤はありません。"
+    },
+    {
+        "sentenceId": "1934",
+        "codeSwitchedSentence": "通常、ここではいつもtouristsやvendorsたちが発するsoundが聞こえてきます。音とlightが織りなすstoryはまるでstory bookのようです。",
+        "reference": "通常、ここではいつも観光客や業者たちが発する音が聞こえてきます。音と光が織りなす物語はまるで絵本のようです。"
+    },
+    {
+        "sentenceId": "2003",
+        "codeSwitchedSentence": "香港の最高の景色を見るには、islandから出てKowloon waterfrontに向かいましょう。",
+        "reference": "香港の最高の景色を見るには、島から出て九龍のウォーターフロントに向かいましょう。"
+    },
+    {
+        "sentenceId": "1862",
+        "codeSwitchedSentence": "NextGenは、FAAが主張するaircraftが短距離routesを飛行し、毎年数百万ガロンのfuelを節約し、carbon emissionsを削減できるsystemです。",
+        "reference": "NextGenは、航空機が短距離路線を飛行し、毎年数百万ガロンの燃料を節約し、二酸化炭素の排出量を削減できるようにするシステムだとFAAは主張しています。"
+    },
+    {
+        "sentenceId": "1775",
+        "codeSwitchedSentence": "The use of ビデオ録画 has led to important 発見 in the 解釈 of micro-expressions, つまり顔の動き which last 数ミリ秒程度.",
+        "reference": "ビデオ録画の利用は、数ミリ秒程度続く微表情、つまり顔の動きを解釈するうえで重要な発見につながっています。"
+    },
+    {
+        "sentenceId": "1963",
+        "codeSwitchedSentence": "Ironing した damp clothes は 乾きやすくなります。多くの hotels では、部屋に iron と ironing board がなくても 頼めば 貸し出してくれます。",
+        "reference": "湿った衣類にはアイロンをかけると乾きやすくなります。多くのホテルでは、部屋にアイロンとアイロン台がなくても頼めば貸し出してくれます。"
+    },
+    {
+        "sentenceId": "1766",
+        "codeSwitchedSentence": "Some 原子 have 不安定な nuclei がある which means they tend to 分裂する with little or no nudging.",
+        "reference": "原子の中には不安定な原子核を持つものがあり、その原子核は、ほとんど何もしなくても分裂してしまう傾向があります。"
+    },
+    {
+        "sentenceId": "1897",
+        "codeSwitchedSentence": "北はサヘルと境界を接し、南と西はAtlantic Oceanに囲まれた地域です。",
+        "reference": "北はサヘルと境界を接し、南と西は大西洋に囲まれた地域です。"
+    },
+    {
+        "sentenceId": "1668",
+        "codeSwitchedSentence": "ワイルドCardをbuyするとbeneficialな場合があります。entryできるParksは、South Africaの主要なものor South Africanのall National parksです。",
+        "reference": "ワイルドカードを購入するとお得な場合があります。南アフリカの主な公園または南アフリカのすべての国立公園に入場できます。"
+    },
+    {
+        "sentenceId": "1806",
+        "codeSwitchedSentence": "As 光害 in their 全盛期 was not the kind of 問題 it is 今日, they are usually located in 都市 or at キャンパス, easier to reach than those built in 現代 times.",
+        "reference": "最も被害が大きかった頃の公害は現在とは問題の種類が異なり、都市部や学校の校庭で発生していたため、現代の問題よりも身近なものでした。"
+    },
+    {
+        "sentenceId": "1675",
+        "codeSwitchedSentence": "すべてのnounsは、「あなた」を指す単語Sieと同様に、文の途中であっても常にcapital letterで始まります。",
+        "reference": "すべての名詞は、「あなた」を指す単語Sieと同様に、文の途中であっても常に大文字で始まります。"
+    },
+    {
+        "sentenceId": "2001",
+        "codeSwitchedSentence": "旅行者 are strongly advised to be aware of any risk of severe 天候 affecting their 地域 as they may affect any 旅行計画.",
+        "reference": "旅行計画に影響を及ぼすことがあるので、旅行者の方々には、旅先の地域に影響を及ぼしうる悪天候のリスクを認識することを強くお勧めします。"
+    },
+    {
+        "sentenceId": "1815",
+        "codeSwitchedSentence": "核爆弾は、fission bombとして作用し、多くのprotonsとneutronsを含むnucleusを集めるにはエネルギーが必要であるという原理で作用します。",
+        "reference": "核爆弾は、1つの原子核に多くの陽子と中性子を集めるにはエネルギーが必要であるという原理で作用します。"
+    },
+    {
+        "sentenceId": "1951",
+        "codeSwitchedSentence": "2002年にGomaはNyiragongo火山のlavaによって破壊され、ほとんどの街路、特に町の中心部が埋まってしまいました。",
+        "reference": "2002年にゴマはニラゴンゴ火山の溶岩によって破壊され、ほとんどの街路、特に町の中心部が埋まってしまいました。"
+    },
+    {
+        "sentenceId": "1754",
+        "codeSwitchedSentence": "地殻が薄いため、近い方にはmariaが多くなることがあります。lavaが浮上しやすくなっていました。",
+        "reference": "地殻が薄いため、近い方には海が多くなることがあります。溶岩が浮上しやすくなっていました。"
+    },
+    {
+        "sentenceId": "1816",
+        "codeSwitchedSentence": "既婚者であり、2人のadultな子を持つDuvallは、この話に関係するMillerにあまり印象を残しませんでした。",
+        "reference": "既婚者であり、成人した2人の子を持つデュバルは、この話に関係するミラーにあまり印象を残しませんでした。"
+    },
+    {
+        "sentenceId": "1925",
+        "codeSwitchedSentence": "内容はほとんどがtheoreticalなものでしたが、書かれたprogramはSagittarius galaxyで実施したsimulate observationsを模擬するものでした。",
+        "reference": "内容はほとんどが理論的なものでしたが、書かれたプログラムは射手座銀河で実施した観測を模擬するものでした。"
+    },
+    {
+        "sentenceId": "1831",
+        "codeSwitchedSentence": "Plitvice Lakes national parkは、Alpineと地中海の植生が混在する広大な森（主にbeech、spruce、fir）に大小16の湖が点在し、絶景で溢れる世界遺産です。",
+        "reference": "プリトヴィッツェ湖群国立公園は、アルプスと地中海の植生が混在する広大な森（主にブナ、トウヒ、モミ）に大小16の湖が点在し、絶景で溢れる世界遺産です。"
+    },
+    {
+        "sentenceId": "1880",
+        "codeSwitchedSentence": "このように、the pencil は多くの people にとって good friend でした when it came out.",
+        "reference": "このように、世に出てきた当時の鉛筆は多くの人にとって良き友人でした。"
+    },
+    {
+        "sentenceId": "1792",
+        "codeSwitchedSentence": "これをchemicalのpHといいます。red cabbage juiceの絞り汁でindicatorを作ることができます。",
+        "reference": "これを化学物質のpHといいます。紫キャベツの絞り汁で試験紙を作ることができます。"
+    },
+    {
+        "sentenceId": "1853",
+        "codeSwitchedSentence": "ジャンカルロ・フィジケラがマシンをコントロールできなくなり、スタート直後にGiancarlo Fisichellaはraceから脱落しました。",
+        "reference": "ジャンカルロ・フィジケラがマシンをコントロールできなくなり、スタート直後にレースから脱落しました。"
+    },
+    {
+        "sentenceId": "1900",
+        "codeSwitchedSentence": "実際には、洞窟の存在を知っていても見つけるのは容易ではありません。洞窟に入ると、そこはtotal isolationな空間です。",
+        "reference": "実際には、洞窟の存在を知っていても見つけるのは容易ではありません。洞窟に入ると、そこは完全に隔離された空間です。"
+    },
+    {
+        "sentenceId": "1727",
+        "codeSwitchedSentence": "野生児は、Feral childrenが捨てられたり、逃げ出したりする前に、severe child abuseやtraumaを経験している可能性があります。",
+        "reference": "野生児は、捨てられたり、逃げ出したりする前に、重度の児童虐待やトラウマを経験している可能性があります。"
+    },
+    {
+        "sentenceId": "1969",
+        "codeSwitchedSentence": "それは、最もeffectiveなmain subjectのplaceは、imageをverticallyとhorizontallyにdividingして、linesのintersectionで、thirdsに分けられた部分(see example)に囲まれた部分とstatesされています。",
+        "reference": "主な被写体を配置すべき最も効果的な位置は、画像を縦横3分の1ずつに分割した線の交点に囲まれた部分（例を参照）とされます。"
+    },
+    {
+        "sentenceId": "1940",
+        "codeSwitchedSentence": "あらゆる点を考え合わせれば、私たちの祖先が今日のサバンナに生息するchimpsと同じように「proteinの問題」を解決していたとしても不思議はありません。",
+        "reference": "あらゆる点を考え合わせれば、私たちの祖先が今日のサバンナに生息するチンパンジーと同じように「タンパク質の問題」を解決していたとしても不思議はありません。"
+    },
+    {
+        "sentenceId": "1930",
+        "codeSwitchedSentence": "Six 人質, including the 子供 and 高齢者, were 早期に解放され, フィリピン人の写真家たちも 同じく 解放されました.",
+        "reference": "子供と高齢者を含めた人質6名が早期に解放され、フィリピン人の写真家たちも同じく解放されました。"
+    },
+    {
+        "sentenceId": "1883",
+        "codeSwitchedSentence": "The vertical clearance 橋下の上方空間 is 15 メートル. Construction was completed in 2011年8月, it didn't open to traffic until 2017年3月.",
+        "reference": "橋下の上方空間は15メートルです。2011年8月に竣工し、2017年3月まで開通しませんでした。"
+    },
+    {
+        "sentenceId": "1789",
+        "codeSwitchedSentence": "その他のnominationsは、Best Picture、Director、Cinematography、Costume Design、Film-editing、Original Score、Production Design、Sound Editing、Sound Mixing、Original Screenplayなどにノミネートされています。",
+        "reference": "最優秀作品賞、監督賞、撮影賞、衣装デザイン賞、映画編集賞、作曲賞、美術賞、音響編集賞、録音賞、脚本賞などにノミネートされました。"
+    },
+    {
+        "sentenceId": "1954",
+        "codeSwitchedSentence": "彼らの disciplined ディフェンス、ball handling のスキル、そして excellent チームワークは stand out しており、この team が 勝者であることは clear だった。",
+        "reference": "彼らの規律あるディフェンス、ボールハンドリングのスキル、そして優れたチームワークは傑出しており、このチームが勝者であることは明らかだった。"
+    },
+    {
+        "sentenceId": "1847",
+        "codeSwitchedSentence": "シンガポールを訪れた彼は、Singaporeの副首相ウォン・カン・センから出迎えを受け、Singapore首相リー・シェン・ルーンと会談でtradeやterrorism問題について話し合いました。",
+        "reference": "シンガポールを訪れた彼は、ウォン・カン・セン副首相から出迎えを受け、リー・シェン・ルーン首相と会談で貿易やテロ問題について話し合いました。"
+    },
+    {
+        "sentenceId": "1702",
+        "codeSwitchedSentence": "わずか2週間でアメリカ軍と自由French軍は南Franceを解放し、Germanyに向かっていました。",
+        "reference": "わずか2週間でアメリカ軍と自由フランス軍は南フランスを解放し、ドイツに向かっていました。"
+    },
+    {
+        "sentenceId": "1908",
+        "codeSwitchedSentence": "これは、一部のverbsと目的語を区別するうえで重要な方法です。",
+        "reference": "これは、一部の動詞と目的語を区別するうえで重要な方法です。"
+    },
+    {
+        "sentenceId": "1709",
+        "codeSwitchedSentence": "本Reportは、イラクに対するExecutiveの現在の政策のほぼすべての側面を強く批判し、即時の方向転換を促すものです。",
+        "reference": "本報告書は、イラクに対する行政府の現在の政策のほぼすべての側面を強く批判し、即時の方向転換を促すものです。"
+    },
+    {
+        "sentenceId": "1729",
+        "codeSwitchedSentence": "例えば、each year ノース Carolina の Bennet School の students は State Capital への trip についての website を design しており、 each year the website が remodeled されますが、 old website は scrapbook として online に kept されています。",
+        "reference": "例えば、ノースカロライナ州のベネットスクールの生徒は毎年、州都への旅行に関するウェブサイトを制作しており、ウェブサイトは毎年改訂されますが、旧サイトはスクラップブックとして閲覧できるようにオンラインで保管されています。"
+    },
+    {
+        "sentenceId": "1923",
+        "codeSwitchedSentence": "The strategy は 効果的 であり、重要な military and civilian supplies の供給を遮断したが、この blockade は 過去2世紀のいくつもの international agreements によって成文化され一般的に認められた international law に違反していました。",
+        "reference": "この戦略は効果的であり、重要な軍事物資や民間物資の供給を遮断したが、この封鎖は過去2世紀のいくつもの国際協定によって成文化され一般的に認められた国際法に違反していました。"
+    },
+    {
+        "sentenceId": "1919",
+        "codeSwitchedSentence": "この都市は also the base to climb the ニラゴンゴ火山 along with アフリカで最も安くマウンテンゴリラを tracking できる場所の1つでもあります。",
+        "reference": "この都市はニラゴンゴ火山への登山の拠点であり、アフリカで最も安くマウンテンゴリラを追跡できる場所の1つでもあります。"
+    },
+    {
+        "sentenceId": "1947",
+        "codeSwitchedSentence": "Prior to the 到着 of troops, ハイチ had not encountered problems related to the 病気 since the 1800年代.",
+        "reference": "1800年代以来、軍隊が到着するまでハイチはこの病気に関係する問題に遭遇したことはありませんでした。"
+    },
+    {
+        "sentenceId": "1715",
+        "codeSwitchedSentence": "Regular アナウンス in the メトロ are made only in カタルーニャ語, but 事故による遅延などの際には announced by an 自動システム in a wide variety of languages including スペイン語, 英語, フランス語, アラビア語, and 日本語.",
+        "reference": "メトロの構内や車内の定期アナウンスはカタルーニャ語のみですが、事故による遅延などの際には自動システムによってスペイン語、英語、フランス語、アラビア語、日本語といった各言語でアナウンスされます。"
+    }
+]

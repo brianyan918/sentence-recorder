@@ -1,0 +1,252 @@
+[
+    {
+        "sentenceId": "1960",
+        "codeSwitchedSentence": "报道称他年仅in his 20 多岁。比伯发表声明表示：“虽然I was not present nor directly involved 这起悲惨事故，但my thoughts and prayers are with 死者家属。”",
+        "reference": "报道称他年仅 20 多岁。比伯发表声明表示：“虽然我当时并不在场，也没有直接经历这起悲惨事故，但我仍为死者家属感到悲伤，为他们祈祷。”"
+    },
+    {
+        "sentenceId": "1901",
+        "codeSwitchedSentence": "虽然 AI 有很强的 science fiction connotation，但 AI 实际上是 computer science 非常 important 的一个 branch，研究的是 machine 的 behavior, learning 和 intelligent adaptation。",
+        "reference": "人工智能有很强的科幻色彩，但它其实是计算机科学非常重要的一个分支，研究的是机器的行为、学习和智能适应。"
+    },
+    {
+        "sentenceId": "1916",
+        "codeSwitchedSentence": "许多德国baked goods以almonds, hazelnuts和其他tree nuts为特色。受欢迎的cakes往往是与一cup strong coffee的绝配。",
+        "reference": "许多德国烘焙食品也以杏仁、榛子和其他坚果为特色。受欢迎的蛋糕与浓咖啡往往是绝配。"
+    },
+    {
+        "sentenceId": "1688",
+        "codeSwitchedSentence": "The job of navies traditionally 是 to ensure that 你的 country maintains the ability to move 你的 people and goods，同时 interfering with 你的 enemy's ability to move his people and goods.",
+        "reference": "从传统意义上讲，海军的任务是确保国家保持运输人员和货物的能力，同时，干扰敌人运输其人员和货物的能力。"
+    },
+    {
+        "sentenceId": "1801",
+        "codeSwitchedSentence": "The parade of buildings 构成 the Hong Kong skyline has been likened to a glittering bar chart，特别是在 the presence of the waters of Victoria Harbour 的映衬下显得格外醒目。",
+        "reference": "构成香港天际线的众多建筑就像是一幅闪闪发光的条形图，在维多利亚港水域的映衬下显得格外醒目。"
+    },
+    {
+        "sentenceId": "1961",
+        "codeSwitchedSentence": "One of the most common 方法 used to illustrate the importance of socialization 是利用少数不幸的 children 的案例，这些 children 由于 neglect, misfortune or wilful abuse，growing up 的过程中没有被 adults socialized.",
+        "reference": "要说明社会化的重要性，最常用的方法之一是利用少数不幸儿童的案例。这些儿童由于被忽视、遭遇不幸或遭到故意虐待，在成长过程中没有在成年人的帮助下实现社会化。"
+    },
+    {
+        "sentenceId": "1888",
+        "codeSwitchedSentence": "重返家园的shock comes on sooner than culture shock（there's less of a honeymoon phase), lasts longer, and can be more severe.",
+        "reference": "重返家园的冲击比文化冲击来得更快（蜜月期更短），持续时间更长，也可能更严重。"
+    },
+    {
+        "sentenceId": "1712",
+        "codeSwitchedSentence": "Since 1966年以来，Sundarbans一直是wildlife sanctuary，and 据估计，目前该区生活着400只Royal Bengal tigers和大约30,000只spotted deer。",
+        "reference": "自 1966 年以来，孙德尔本斯一直是野生动物保护区。据估计，目前该区生活着 400 只皇家孟加拉虎和大约 3 万只梅花鹿。"
+    },
+    {
+        "sentenceId": "1854",
+        "codeSwitchedSentence": "当天，vehicle 被 taken away from the scene of the accident at approximately 12 时 GMT on the same day.",
+        "reference": "当天，格林尼治时间 (GMT) 约 12 时许，该车辆被拖离事故现场。"
+    },
+    {
+        "sentenceId": "1933",
+        "codeSwitchedSentence": "最终，有许多小型的猫科动物（包括loose pet cats），以昆虫、啮齿动物、蜥蜴和鸟类等数量多得多的小型猎物为食。",
+        "reference": "最终，有许多小型的猫科动物（包括散养的宠物猫），以昆虫、啮齿动物、蜥蜴和鸟类等数量多得多的小型猎物为食。"
+    },
+    {
+        "sentenceId": "1967",
+        "codeSwitchedSentence": "莱顿 (Layton) 在与首相会面期间要求修改保守党的 environmental 法案，他要求\"thorough\" 重写保守党的 environmental 法案。",
+        "reference": "“莱顿 (Layton) 在与首相会面期间要求修改保守党的环境法案，他要求‘彻底重写’保守党的环境法案。”"
+    },
+    {
+        "sentenceId": "2005",
+        "codeSwitchedSentence": "But there are a lot of things about 鸟类 that still look like a 恐龙.",
+        "reference": "但鸟类还是有很多地方跟恐龙相似。"
+    },
+    {
+        "sentenceId": "1736",
+        "codeSwitchedSentence": "Rolando Mendoza 架起他的 M16 rifle 对 tourists 扫射。",
+        "reference": "罗兰多·门多萨 (Rolando Mendoza) 架起他的 M16 步枪对游客扫射。"
+    },
+    {
+        "sentenceId": "1812",
+        "codeSwitchedSentence": "虽然有一种experimental vaccine看似能够降低Ebola病毒的死亡率，但迄今为止，还没明确证明任何药物适合治疗现有的infection。",
+        "reference": "虽然有一种实验性疫苗看似能够降低埃博拉病毒的死亡率，但迄今为止，还没明确证明任何药物适合治疗现有的感染。"
+    },
+    {
+        "sentenceId": "1934",
+        "codeSwitchedSentence": "平时你总能在这里听到tourists和vendors的sound。声光交织，就像在讲述一个动人的story book。",
+        "reference": "平时你总能在这里听到游客和小摊贩的声音。声光交织，就像在讲述一个动人的故事。"
+    },
+    {
+        "sentenceId": "2003",
+        "codeSwitchedSentence": "若想从最佳角度欣赏Hong Kong的美景，可以离开该岛，前往对面的Kowloon waterfront。",
+        "reference": "若想从最佳角度欣赏香港的美景，可以离开该岛，前往对面的九龙海滨。"
+    },
+    {
+        "sentenceId": "1862",
+        "codeSwitchedSentence": "NextGen 是一个 FAA 称为的新 generation 航空运输 system，可以使飞机缩短飞行航线，每年节省数百万加仑的燃料，并减少 carbon emissions。",
+        "reference": "美国联邦航空局 (FAA) 称，新一代航空运输系统 (NextGen) 可以使飞机缩短飞行航线，每年节省数百万加仑的燃料，并减少碳排放。"
+    },
+    {
+        "sentenceId": "1775",
+        "codeSwitchedSentence": "录像的使用has led to重大发现in the interpretation of微表情, facial movements which 持续几毫秒.",
+        "reference": "录像的使用为阐释微表情（持续几毫秒的面部运动）带来了重大发现。"
+    },
+    {
+        "sentenceId": "1963",
+        "codeSwitchedSentence": "Ironing 潮湿的衣服可以帮助其变dry。即便房间并没有iron 和 ironing board， 但是许多酒店提供出借loan服务。",
+        "reference": "熨烫潮湿的衣服可以帮助其变干。即便房间并没有熨斗和熨衣板，但是许多酒店提供出借服务。"
+    },
+    {
+        "sentenceId": "1766",
+        "codeSwitchedSentence": "Some 原子 have 不稳定的 nuclei which means that they tend to break apart with little or no 刺激.",
+        "reference": "有些原子含有不稳定的原子核，这意味着它们很可能会在很少或没有刺激的情况下发生分裂。"
+    },
+    {
+        "sentenceId": "1897",
+        "codeSwitchedSentence": "In the 北部 the region is 接壤 by the Sahel, and in the 南部 and 西部 临大西洋.",
+        "reference": "北部与萨赫勒地区接壤；南部和西部临大西洋。"
+    },
+    {
+        "sentenceId": "1668",
+        "codeSwitchedSentence": "买一张万能Card也有不少好处，which provides entry to either selections of parks in South Africa or all of the South African National Parks.",
+        "reference": "买一张万能卡（Wild Card）也有不少好处。带着这张卡，你可以进入南非的一些公园或全部的国家公园。"
+    },
+    {
+        "sentenceId": "1706",
+        "codeSwitchedSentence": "More traditional的教堂常常在Easter Vigil的周六晚上举行复活节守夜活动，congregations通常在午夜钟声敲响之时涌入庆典，庆祝基督的复活 during the Easter weekend。",
+        "reference": "更传统的教堂常常在复活节周末的周六晚上举行复活节守夜活动，会众通常在午夜钟声敲响之时涌入庆典，庆祝基督的复活。"
+    },
+    {
+        "sentenceId": "1806",
+        "codeSwitchedSentence": "由于在 their heyday 时期的 light pollution 还 not 是 the kind of problem it is today, they usually located in cities or at campuses，easier to reach than those built in modern times.",
+        "reference": "由于在其全盛时期的光污染还不像现在这么严重，所以天文台通常建立在城区或校园内，比现代修建的天文台更容易到达。"
+    },
+    {
+        "sentenceId": "1675",
+        "codeSwitchedSentence": "所有的 nouns，连同表示您的“Sie”这个词，都应该以 capital letter 开头，即使在句子中间也是如此。",
+        "reference": "除去表示您的“Sie”之外的所有名词都应以大写字母开头，即使在句子中间也应如此。"
+    },
+    {
+        "sentenceId": "2001",
+        "codeSwitchedSentence": "Travellers are 强烈建议 to 注意所在地的恶劣天气风险, 它们可能会 影响 any travel plans.",
+        "reference": "强烈建议旅客注意所在地的恶劣天气风险，它们可能会影响旅行计划。"
+    },
+    {
+        "sentenceId": "1815",
+        "codeSwitchedSentence": "裂变原子弹的工作原理如下：要把一个nucleus和许多protons及neutrons聚在一起需要能量。",
+        "reference": "裂变原子弹的工作原理如下：把一个原子核和许多质子及中子聚在一起需要能量。"
+    },
+    {
+        "sentenceId": "1951",
+        "codeSwitchedSentence": "2002年，Goma被Nyiragongo火山的lava所摧毁，lava掩埋了该镇的大部分街道，尤其是镇中心。",
+        "reference": "2002 年，戈马被尼拉贡戈火山的熔岩所摧毁。火山熔岩掩埋了该镇的大部分街道，尤其是镇中心。"
+    },
+    {
+        "sentenceId": "1754",
+        "codeSwitchedSentence": "因为地壳更薄，所以近的一面可能会有更多的maria，lava更容易上升到地表。",
+        "reference": "因为地壳更薄，所以近的一面可能会有更多的阴暗部，熔岩更容易上升到地表。"
+    },
+    {
+        "sentenceId": "1816",
+        "codeSwitchedSentence": "杜瓦尔, who 已婚, 有两个已经成年的 adult 孩子, 并没有给故事的讲述者 Miller 留下太大 impression。",
+        "reference": "杜瓦尔已婚，有两个已经成年的孩子，他并没有给故事的讲述者米勒留下太大印象。"
+    },
+    {
+        "sentenceId": "1925",
+        "codeSwitchedSentence": "完成的工作大多是theoretical的，但编写这个program的目的，是为了simulate observations对Sagittarius galaxy的观测。",
+        "reference": "完成的工作大多是理论性的，但编写程序的目的，是为了模拟对人马座星系的观测。"
+    },
+    {
+        "sentenceId": "1831",
+        "codeSwitchedSentence": "Plitvice Lakes national 公园森林茂密，主要树种有 beech, spruce 和 fir，并以 Alpine 和地中海植被混合为特色。",
+        "reference": "普利特维茨湖国家公园森林茂密，主要树种有山毛榉、云杉和冷杉，并以高山和地中海植被混合为特色。"
+    },
+    {
+        "sentenceId": "1880",
+        "codeSwitchedSentence": "Thus, 铅笔 was a good 朋友 to many 人 when it came out.",
+        "reference": "因此，铅笔一问世，就成了许多人的心头好。"
+    },
+    {
+        "sentenceId": "1792",
+        "codeSwitchedSentence": "这被称为化学物质的 chemical pH。你可以使用 red cabbage juice 制作 indicator。",
+        "reference": "这被称为化学物质的 pH 值。你可以使用红甘蓝汁制作指示剂。"
+    },
+    {
+        "sentenceId": "1853",
+        "codeSwitchedSentence": "Giancarlo Fisichella 因失去了对赛车的把控，在比赛开始后不久就退出了race。",
+        "reference": "詹卡洛·费斯切拉因失去了对赛车的把控，在比赛开始后不久就退出了。"
+    },
+    {
+        "sentenceId": "1900",
+        "codeSwitchedSentence": "事实上，即使知道它的存在，也不容易找到。一旦进入洞穴，就完全total isolation了。",
+        "reference": "事实上，即使知道它的存在，也不容易找到。一旦进入洞穴，就完全与世隔绝了。"
+    },
+    {
+        "sentenceId": "1727",
+        "codeSwitchedSentence": "Feral孩子在被抛弃或离家出走之前，可能经历过严重的child abuse或trauma。",
+        "reference": "野孩子在被抛弃或离家出走之前，可能经历过严重的儿童虐待或创伤。"
+    },
+    {
+        "sentenceId": "1969",
+        "codeSwitchedSentence": "It states that 对 subject 来说 最 effective 的 place 是 at the intersection of lines dividing the image into thirds vertically and horizontally (see example).",
+        "reference": "它指出，对主体来说最有效的位置是将图像垂直和水平分为三部分的线的交叉点（见示例）。"
+    },
+    {
+        "sentenceId": "1940",
+        "codeSwitchedSentence": "综上所述，我们不应该感到surprised如果我们的祖先解决他们的\"protein problem\"的方式与今天savanna上的chimps的方法无异。",
+        "reference": "综上所述，如果我们的祖先解决“蛋白质问题”的途径与如今热带草原上的黑猩猩所使用的方法无异，我们也不应该感到惊讶。"
+    },
+    {
+        "sentenceId": "1930",
+        "codeSwitchedSentence": "Six 名人质 (包括 children 和 老人 在内) 以及 那些 Filipino photographers 被 提前 释放。",
+        "reference": "六名人质（包括儿童和老人在内）以及那些菲律宾摄影师被提前释放。"
+    },
+    {
+        "sentenceId": "1883",
+        "codeSwitchedSentence": "The vertical clearance under 桥 is 15 米。 该项目于 August 2011 完工，但直到 March 2017 才开始通车。",
+        "reference": "桥下垂直净空 15 米。该项目于 2011 年 8 月完工，但直到 2017 年 3 月才开始通车。"
+    },
+    {
+        "sentenceId": "1789",
+        "codeSwitchedSentence": "The other 提名 include 最佳 Picture, Director, Cinematography, Costume Design, Film-editing, Original Score, Production Design, Sound Editing, Sound Mixing 和 Original Screenplay.",
+        "reference": "其他提名包括最佳影片、最佳导演、最佳摄影、最佳服装设计、最佳电影剪辑、最佳原创配乐、最佳艺术指导、最佳音效剪辑、最佳混音和最佳原创剧本。"
+    },
+    {
+        "sentenceId": "1954",
+        "codeSwitchedSentence": "他们因其disciplined防守、ball handling技术和excellent团队合作stand out，很显然，这是一支team to beat。",
+        "reference": "他们因其严格防守、控球技术和出色的团队合作脱颖而出。很显然，这是一支无往不胜的球队。"
+    },
+    {
+        "sentenceId": "1847",
+        "codeSwitchedSentence": "他受到了Singapore的Deputy Prime Minister黄根成的欢迎，并与Singapore Prime Minister李显龙探讨了trade和terrorism问题。",
+        "reference": "他受到了新加坡副总理黄根成的欢迎，并与新加坡总理李显龙探讨了贸易和恐怖主义问题。"
+    },
+    {
+        "sentenceId": "1702",
+        "codeSwitchedSentence": "仅仅两个星期，美国和自由French军队就解放了southern France，并转向Germany。",
+        "reference": "仅仅两个星期，美国和自由法国的军队就解放了法国南部，并转向德国。"
+    },
+    {
+        "sentenceId": "1908",
+        "codeSwitchedSentence": "这是一个重要的方法来区分某些verbs和宾语。",
+        "reference": "这是区分某些动词和宾语的一个重要方法。"
+    },
+    {
+        "sentenceId": "1660",
+        "codeSwitchedSentence": "Romanticism 具有很强的 cultural determinism 色彩。这源于 writers such as 歌德、费希特和施莱格尔。",
+        "reference": "浪漫主义具有很强的文化决定论色彩。这源于歌德、费希特和施莱格尔等作家。"
+    },
+    {
+        "sentenceId": "1709",
+        "codeSwitchedSentence": "该Report对Executive目前的伊拉克政策几乎每一个方面都提出了严厉批评，并敦促立即改变方向。",
+        "reference": "该报告对行政当局目前对伊拉克政策的几乎每一个方面都提出了严厉批评，并敦促立即改变方向。"
+    },
+    {
+        "sentenceId": "1729",
+        "codeSwitchedSentence": "For example, 每年 北卡罗莱纳州 Bennet School 的学生 design 一个有关 their trip to the State Capital 的 website，each year the website gets remodeled, but 老 versions are kept online to serve as a scrapbook.",
+        "reference": "例如，北卡罗莱纳州本尼特学校 ( Bennet School) 的学生每年都会设计一个有关他们的州府之行的网站。网站每年都会重新设计，但是老版本会在线保存，用作剪贴簿。"
+    },
+    {
+        "sentenceId": "1919",
+        "codeSwitchedSentence": "The city 也是攀登尼拉贡戈火山（Nyiragongo）以及非洲最便宜的 Mountain Gorilla 追踪项目的基地。",
+        "reference": "这座城市也是攀登尼拉贡戈火山（Nyiragongo）以及非洲最便宜的山地大猩猩追踪项目的基地。"
+    }
+]

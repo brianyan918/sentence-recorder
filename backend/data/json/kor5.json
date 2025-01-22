@@ -1,0 +1,252 @@
+[
+    {
+        "sentenceId": "1945",
+        "codeSwitchedSentence": "카사블랑카는 모로코에서 가장 interesting하지 않은 shopping 장소 중 한 곳입니다.",
+        "reference": "카사블랑카는 모로코에서 가장 흥미롭지 않은 쇼핑 장소 중 한 곳입니다."
+    },
+    {
+        "sentenceId": "1742",
+        "codeSwitchedSentence": "홍콩 Island는 홍콩 territory에 이름을 부여한 곳이자 많은 관광객들이 main focus로 여기는 곳이다.",
+        "reference": "홍콩 섬은 홍콩 영토에 홍콩이라는 이름을 부여한 곳이자 많은 관광객들이 주안점으로 여기는 곳이다."
+    },
+    {
+        "sentenceId": "1678",
+        "codeSwitchedSentence": "올리버 색스는 그의 paper 'The President's Speech'에서 뇌 손상으로 인해 speech를 알아듣지 못함에도 불구하고 사람들이 sincerity를 정확하게 받아들였다고 나타냈습니다.",
+        "reference": "올리버 색스는 그가 집필한 '대통령의 연설'에서 뇌 손상으로 인해 연설을 알아듣지 못함에도 불구하고 사람들이 그에 담긴 성실성을 정확하게 받아들였음에 대하여 나타냈습니다."
+    },
+    {
+        "sentenceId": "1944",
+        "codeSwitchedSentence": "이들 해변은 보통 혼잡하지 않은 family 해변으로, 해안가에는 다양한 shops이 늘어서 있습니다. 수영해도 safe한 곳입니다.",
+        "reference": "이들 해변은 대개 혼잡하지 않은 가족 해변으로, 해안가에는 다양한 상점이 늘어서 있습니다. 수영해도 안전한 곳입니다."
+    },
+    {
+        "sentenceId": "1887",
+        "codeSwitchedSentence": "병원에서 일하는 동안 Liggins는 여가 time에 조기 진통에 관해 조사하기 시작했다.",
+        "reference": "병원에서 일하는 동한 리긴스는 여가 시간에 조기 진통에 관해 조사하기 시작했다."
+    },
+    {
+        "sentenceId": "1666",
+        "codeSwitchedSentence": "자신의 의견이 아닌 정부의 의견을 듣고 싶을 수도 있지만, 각국 정부의 advice는 their citizens에 맞춰져 있다.",
+        "reference": "자신의 의견이 아닌 정부의 의견을 듣고 싶을 수도 있지만, 각국 정부의 조언들은 자국민에 맞춰져 있다."
+    },
+    {
+        "sentenceId": "1976",
+        "codeSwitchedSentence": "Middle order batsmen인 Sachin Tendulkar와 Rahul Dravid는 훌륭한 성적을 냈으며 100런 partnership을 이뤄냈습니다.",
+        "reference": "중간 순서 크리켓 배트맨인 사친 텐둘카르와 라훌 드라비드는 훌륭한 성적을 냈으며 100런 파트너쉽을 이뤄냈습니다."
+    },
+    {
+        "sentenceId": "1750",
+        "codeSwitchedSentence": "The find은 또한 birds의 깃털 진화에 대한 통찰을 제공합니다.",
+        "reference": "그러한 발견은 또한 조류에 있어서 깃털의 진화에 대한 통찰을 제공한다."
+    },
+    {
+        "sentenceId": "1993",
+        "codeSwitchedSentence": "아열대 Storm 제리, 대서양 허리케인 season의 열 번째 폭풍이 오늘 대서양에서 생성되었습니다.",
+        "reference": "대서양 허리케인의 열 번째 폭풍인 아열대 폭풍 제리가 오늘 대서양에서 생성되었습니다."
+    },
+    {
+        "sentenceId": "1670",
+        "codeSwitchedSentence": "미국 지질조사국(USGS) Astrogeology Team 및 아리조나주 플래그스태프의 노던 아리조나 대학 소속인 Glen Cushing은 “이러한 thermal behavior는 일정한 온도를 유지하는 지구의 큰 caves만큼 안정적이지는 않지만, 지표면의 깊은 구멍에 일치한다\"고 말했습니다.",
+        "reference": "\"미국 지질조사국(United States Geological Survey) 천문지질학 팀 및 아리조나주 플래그스태프의 노던 아리조나 대학 소속인글렌 쿠싱(Glen Cushing)은 “이러한 열적 거동은 일정한 온도를 유지하는 지구의 큰 동굴만큼 안정적이지는 않지만, 지표면의 깊은 구멍에 일치한다\"\"고 말했습니다.\""
+    },
+    {
+        "sentenceId": "1920",
+        "codeSwitchedSentence": "그들은 방문객들이 계속 머물면서 좋은 분위기를 이어갈 수 있도록 항상 특별한 음식, 음료, entertainment offers를 구비하고 있어, 계속 premise에 머물게 한다.",
+        "reference": "그들은 방문객들이 계속 머물면서, 좋은 분위기를 이어갈 수 있도록 항상 특별한 음식, 음료, 오락거리를 구비하고 있다."
+    },
+    {
+        "sentenceId": "1848",
+        "codeSwitchedSentence": "어제 아침 터키 가지안테프에 있는 경찰서에서 폭발한 차량 폭탄으로 인해 경찰관 2명이 죽고 20명 이상의 other 사람들이 다쳤습니다.",
+        "reference": "어제 아침 터키 가지안테프에 있는 경찰서에서 폭발한 차량 폭탄으로 인해 경찰관 2명이 죽고 20명 이상의 다른 사람들이 다쳤습니다."
+    },
+    {
+        "sentenceId": "1994",
+        "codeSwitchedSentence": "당연한 말이지만 당신이 Romance language를 안다면 Portuguese를 배우는 것이 쉬울 것입니다.",
+        "reference": "당연한 말이지만 당신이 로맨스어를 안다면 포르투갈어를 배우는 것이 쉬울 것입니다."
+    },
+    {
+        "sentenceId": "1828",
+        "codeSwitchedSentence": "'Hostile environment course'에 대한 인터넷 검색 결과가 아마도 현지 company 주소를 제공해 줄 것입니다.",
+        "reference": "'적대적 환경 코스'에 대한 인터넷 검색 결과가 아마도 현지 회사 주소를 제공해 줄 것입니다."
+    },
+    {
+        "sentenceId": "1896",
+        "codeSwitchedSentence": "USA Gymnastics와 USOC는 같은 goal을 가지고 있습니다. 선수들이 안전하고 긍정적이며 격려 받는 환경에서 꿈을 좇을 수 있도록 gymnastics 등의 sport를 가능한 한 안전하게 만드는 것입니다.",
+        "reference": "미국 체조 대표팀과 USOC는 같은 목표를 가지고 있습니다. 선수들이 안전하고 긍정적이며 격려 받는 환경에서 꿈을 좇을 수 있도록 체조 등의 스포츠를 가능한 한 안전하게 만드는 것입니다."
+    },
+    {
+        "sentenceId": "1878",
+        "codeSwitchedSentence": "교회의 central authority는 천 년 넘게 Rome에 있었고, 이런 power와 money의 concentration은 많은 사람들로 하여금 이 tenet이 합당한지 의문을 낳았습니다.",
+        "reference": "교회의 핵심 권력은 천 년 넘게 로마에 머물렀다. 이런 힘과 돈의 편중은 이 교리가 합당한지에 대한 의문을 낳았다."
+    },
+    {
+        "sentenceId": "1682",
+        "codeSwitchedSentence": "누가 기록한 것인지는 아무도 모르지만, 이 큰 양피지 문서(75.6 cm x 62.2 cm)는 초기에 말려서 storage에 보관되었습니다.",
+        "reference": "누가 기록한 것인지는 아무도 모르지만, 이 큰 양피지 문서(75.6 cm x 62.2 cm)는 초기에 말려 보관되었습니다."
+    },
+    {
+        "sentenceId": "1892",
+        "codeSwitchedSentence": "여기는 영국 식민지 개발자들이 자신들의 소유로 삼았던 곳이고 so 과거 식민지 영토에 대한 증거를 찾고 있다면 여기서부터 start하면 좋다.",
+        "reference": "여기는 영국 식민지 개발자들이 자신들의 소유로 삼았던 곳이기 때문에 과거 식민지 영토에 대한 증거를 찾고 있다면 여기서부터 시작하면 좋다."
+    },
+    {
+        "sentenceId": "1696",
+        "codeSwitchedSentence": "대학 연구진은 두 compounds가 서로 반응하여 crystals를 형성하고 이는 kidney function을 차단할 수 있다고 밝혔다.",
+        "reference": "대학 연구진은 두 화합물이 서로 반응하여 결정을 형성하고 이는 신장의 기능을 차단할 수 있다고 밝혔다."
+    },
+    {
+        "sentenceId": "1863",
+        "codeSwitchedSentence": "Tibetan meditation의 중심에는 신성 Yoga가 있다. 다양한 신을 visualization해 energy channels을 청소하고, chakras를 활성화하며, enlightenment consciousness를 창조한다.",
+        "reference": "티벳 명상의 중심에는 신성 요가(Deity Yoga)가 있다. 다양한 신을 시각화해 에너지 채널을 청소하고, 차크라를 활성화하며, 계몽 의식을 창조한다."
+    },
+    {
+        "sentenceId": "1808",
+        "codeSwitchedSentence": "종전 후 2년이라는 세월이 흐르면서 former allies는 이제 enemies가 되었고 Cold War가 시작되었다.",
+        "reference": "종전 2년이라는 세월이 흐르면서 이전의 동맹국들은 이제 적이 되었고 냉전이 시작되었다."
+    },
+    {
+        "sentenceId": "1827",
+        "codeSwitchedSentence": "crust는 가까운 side가 약 70km, 먼 side가 약 100km 두께입니다.",
+        "reference": "지각은 가까운 쪽이 약 70km, 먼 쪽이 약 100km 두께입니다."
+    },
+    {
+        "sentenceId": "1948",
+        "codeSwitchedSentence": "삼국시대는 Ancient China 역사에서 가장 bloodiest era 중 하나였는데, 수 천명의 people이 Xi’an grand palace의 가장 높은 자리에 앉기 위해 fighting하다 죽었다.",
+        "reference": "삼국시대는 고대 중국 역사에서 가장 유혈 낭자한 시대 중 하나였는데, 수 천명의 사람들이 시안 대궐의 가장 높은 자리에 앉기 위해 싸우다 죽었다."
+    },
+    {
+        "sentenceId": "1965",
+        "codeSwitchedSentence": "그곳은 거의 모든 sandy 해변이며, 안전한 swimming이 가능하고, 대부분의 해변은 pohutukawa trees가 제공하는 그늘진 장소들이 많다.",
+        "reference": "그곳은 안전한 수영이 가능한 거의 모든 모래 해변이며, 대부분의 해변은 푸후투카와 나무(pohutukawa trees)가 만드는 그늘진 장소들이 많다."
+    },
+    {
+        "sentenceId": "1988",
+        "codeSwitchedSentence": "1920년대, 대부분의 시민과 국가에서 prevailing했던 성향은 pacifism와 isolation이었습니다.",
+        "reference": "1920년대, 대부분의 시민과 국가에서 우세했던 성향은 평화주의와 고립주의였습니다."
+    },
+    {
+        "sentenceId": "1895",
+        "codeSwitchedSentence": "그리스어에 대한 지식이 declined함에 따라, 서구는 그리스 철학 및 과학의 roots와 단절되어 있음을 West가 알게 되었습니다.",
+        "reference": "그리스어에 대한 지식이 감소함에 따라, 서구는 그리스 철학 및 과학의 뿌리와 단절되어 있음을 알게 되었습니다."
+    },
+    {
+        "sentenceId": "1910",
+        "codeSwitchedSentence": "Parisians들은 자기중심적이고, rude하며, 오만하다는 평판이 있습니다.",
+        "reference": "파리 사람들은 자기중심적이고, 무례하고, 오만하다는 평판이 있습니다."
+    },
+    {
+        "sentenceId": "1913",
+        "codeSwitchedSentence": "호랑이의 roar는 사자의 full-voiced roar와는 다르지만, snarly하게 소리 지르는 단어의 sentence와 비슷합니다.",
+        "reference": "호랑이의 포효는 사자의 우렁찬 포효와는 다르지만, 으르렁거리며 소리 지르는 단어의 문장과 비슷합니다."
+    },
+    {
+        "sentenceId": "1689",
+        "codeSwitchedSentence": "Europe는 상대적으로 작지만 많은 독립 countries가 있는 대륙입니다. 보통 여러 countries를 여행하는 것은 비자 신청과 여권 심사를 여러 times 거쳐야 한다는 것을 의미합니다.",
+        "reference": "유럽은 상대적으로 작지만 많은 독립 국가들이 있는 대륙입니다. 보통 여러 국가를 여행하는 것은 비자 신청과 여권 심사를 여러 번 거쳐야 한다는 것을 의미합니다."
+    },
+    {
+        "sentenceId": "1760",
+        "codeSwitchedSentence": "Mosasaurus는 그 시대의 apex predator였으므로 다른 mosasaurs 외에는 두려울 것이 아무것도 없었습니다.",
+        "reference": "모사사우루스는 그 시대의 최상위 포식자였으므로 다른 모사사우루스 외에는 두려울 것이 아무것도 없었습니다."
+    },
+    {
+        "sentenceId": "1800",
+        "codeSwitchedSentence": "The bridge는 브라질 세관 검문소의 시공이 finished되는 2017년 9월에 전면 가동될 예정이다.",
+        "reference": "이 다리는 브라질 세관 검문소의 시공이 완료되는 2017년 9월에 전면 가동될 예정이다."
+    },
+    {
+        "sentenceId": "1797",
+        "codeSwitchedSentence": "누구나 society에 참여하고 transportation systems를 이용하며, 거의 모든 사람들이 transportation systems에 대해 불평하고 있습니다.",
+        "reference": "누구나 사회에 참여하고 교통 시스템을 이용하며, 거의 모든 사람들이 교통 시스템에 대해 불평하고 있습니다."
+    },
+    {
+        "sentenceId": "1833",
+        "codeSwitchedSentence": "철학자 Aristotle는 모든 물질이 네 가지 elements 중 하나 혹은 하나 이상의 elements와 mixture되어 구성되어 있다고 이론화했다. 그 네 가지 elements는 땅, 물, 공기, 그리고 fire였다.",
+        "reference": "철학자 아리스토텔레스(Aristotle)는 모든 물질이 네 가지 요소 중 하나 혹은 하나 이상의 요소와 혼합하여 구성되어 있다고 이론화했다. 그 네 가지 요소는 땅과 물과 공기와 불이었다."
+    },
+    {
+        "sentenceId": "1726",
+        "codeSwitchedSentence": "Field trips은 모든 학급에 있어서 큰 part를 차지한다. Quite often, 교사는 자신의 students를 버스 trip이 필요 없는 장소로 데려가고 싶어 한다.",
+        "reference": "현장 학습은 모든 학급에 있어서 큰 비중을 차지한다. 일반적으로 교사는 자신의 학생들을 버스 여행이 필요 없는 장소로 데려가고 싶어 한다."
+    },
+    {
+        "sentenceId": "1962",
+        "codeSwitchedSentence": "pH level은 시험을 거친 chemical에서 수소(Hydrogen)의 양으로 표시합니다.",
+        "reference": "pH 레벨은 시험을 거친 화학 물질에서 수소(pH에서 H) 이온의 양으로 표시합니다."
+    },
+    {
+        "sentenceId": "1774",
+        "codeSwitchedSentence": "해당 도서 지역에서는 British와 United States currency는 사용할 수 있지만 credit cards는 아마 accepted되지 않을 것입니다. acceptable payment method가 무엇인지 결정하려면 미리 소유주에게 확인하시기 바랍니다.",
+        "reference": "해당 도서 지역에서는 영국 통화와 미국 통화는 사용할 수 있지만 신용카드는 사용할 수 없습니다. 허용되는 결제 수단이 무엇인지 결정하려면 미리 소유주에게 확인하시기 바랍니다."
+    },
+    {
+        "sentenceId": "1734",
+        "codeSwitchedSentence": "과학자들은 dark matter가 regular matter와 같은 방식으로 다른 dark matter에 영향을 준다고 결론지었습니다.",
+        "reference": "과학자들은 암흑물질이 일반 물질과 같은 방식으로 다른 암흑물질에 영향을 준다고 결론지었습니다."
+    },
+    {
+        "sentenceId": "1939",
+        "codeSwitchedSentence": "또한 혁명 이후 occupations가 모든 남성 지원자에게 개방되어 가장 야망있고 성공 지향적인 사람들이 succeed할 수 있는 길을 열어 주었습니다.",
+        "reference": "또한 혁명 이후 직업들은 모든 남성 지원자에게 개방되어 가장 야망있고 성공 지향적인 사람들이 성공할 수 있는 길을 열어 주었습니다."
+    },
+    {
+        "sentenceId": "1885",
+        "codeSwitchedSentence": "오후 10 - 11시 MDT 사이에 inmates가 교도소 yard에 fire를 시작했다.",
+        "reference": "오후 10 - 11시 MDT(산악 여름 시간) 사이에 수감자들이 교도소 마당에 화재를 시작했다."
+    },
+    {
+        "sentenceId": "1664",
+        "codeSwitchedSentence": "건조한 두 dry powders를 함께 휘저은 후에 물에 젖은 깨끗한 손으로 공에 squeeze한다.",
+        "reference": "건조한 두 분말을 함께 휘저은 후에 물에 젖은 깨끗한 손으로 공에 짜 넣는다."
+    },
+    {
+        "sentenceId": "1701",
+        "codeSwitchedSentence": "염소 사육은 대략 일만 년 전에 이란의 Zagros Mountains에서 시작한 것으로 보입니다.",
+        "reference": "염소 사육은 대략 일만 년 전에 이란의 자그로스산맥에서 시작한 것으로 보입니다."
+    },
+    {
+        "sentenceId": "2004",
+        "codeSwitchedSentence": "같은 month에 또 another airliner가 마샤드 공항에서 활주로를 벗어나 wall에 충돌하여 seventeen명의 사망자가 발생했습니다.",
+        "reference": "같은 달에 또 다른 여객기가 마샤드 공항에서 활주로를 벗어나 벽에 충돌하여 17명의 사망자가 발생했습니다."
+    },
+    {
+        "sentenceId": "1894",
+        "codeSwitchedSentence": "curry는 herbs와 spices를 기본으로 하여 고기나 vegetables를 곁들이는 dish입니다.",
+        "reference": "커리는 약용 식물과 향신료를 기본으로 하여 고기나 채소를 곁들이는 요리입니다."
+    },
+    {
+        "sentenceId": "1718",
+        "codeSwitchedSentence": "골동품에 대한 보편적인 정의는 존재하지 않습니다. Some tax agencies에서는 100년 이상 오래된 제품을 antiques로 분류합니다.",
+        "reference": "골동품에 대한 보편적인 정의는 존재하지 않습니다. 몇 조세국에서는 100년 이상 오래된 제품을 골동품으로 분류합니다."
+    },
+    {
+        "sentenceId": "1745",
+        "codeSwitchedSentence": "식물은 자연환경에서 가장 좋아 보이므로 \"just one\" specimen을 제거하려는 유혹은 버려야 한다.",
+        "reference": "\"식물은 자연환경에서 가장 좋아 보이므로 \"\"딱 하나\"\"의 표본은 괜찮겠지 라는 유혹은 버려야 한다.\""
+    },
+    {
+        "sentenceId": "1931",
+        "codeSwitchedSentence": "해당 service는 pleasure craft을 포함한 해상운송 및 remote data와 voice needs가 필요한 expeditions에서 자주 사용됩니다.",
+        "reference": "해당 서비스는 유락용 선박을 포함한 해상운송 및 원켝 데이터 및 음성 서비스가 필요한 곳에서 자주 사용됩니다."
+    },
+    {
+        "sentenceId": "1720",
+        "codeSwitchedSentence": "핫 초콜릿은 Belgian 표준에 따릅니다. 과일 주스는 pricey하지만 아주 excellent합니다.",
+        "reference": "핫 초콜릿은 벨기에 표준에 따릅니다. 과일 주스는 비싸지만 아주 맛있습니다."
+    },
+    {
+        "sentenceId": "1875",
+        "codeSwitchedSentence": "지구의 rivers에서 oceans로 쏟아져 들어가는 물의 20%는 Amazon에서 흘러나온다.",
+        "reference": "지구의 강에서 바다로 쏟아져 들어가는 물의 20%는 아마존에서 흘러나온다."
+    },
+    {
+        "sentenceId": "1992",
+        "codeSwitchedSentence": "널리 알려진 safari라는 표현은 특히 savanna의 멋진 아프리카의 야생동물들을 보기 위한 육로 여행을 칭한다.",
+        "reference": "널리 알려진 사파리라는 표현은 특히 사바나의 멋진 아프리카의 야생동물들을 보기위한 육로 여행을 칭한다."
+    },
+    {
+        "sentenceId": "1676",
+        "codeSwitchedSentence": "모든 South African National Parks과 마찬가지로, 공원에는 매일 conservation fee와 entry fee가 있습니다.",
+        "reference": "모든 남아프리카 국립공원과 마찬가지로, 공원에는 매일 보존료와 입장료가 있습니다."
+    }
+]

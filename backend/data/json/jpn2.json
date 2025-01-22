@@ -1,0 +1,252 @@
+[
+    {
+        "sentenceId": "1741",
+        "codeSwitchedSentence": "さらに北方の広い地域はquite sparsely populatedで、ほとんど人が住んでいないwildernessもあります。",
+        "reference": "さらに北方の広い地域は人口が少なく、ほとんど人が住んでいない原生地域もあります。"
+    },
+    {
+        "sentenceId": "1818",
+        "codeSwitchedSentence": "People may not anticipate that 旅行者は帰国に際しても忍耐 and understanding are also necessary for travellers returning home.",
+        "reference": "旅行者は帰国に際しても忍耐と理解を要することを人々は予想していないかもしれません。"
+    },
+    {
+        "sentenceId": "1780",
+        "codeSwitchedSentence": "クンダリーニヨガでは、Kundalini enlightenment energy が yoga ポーズ、breathing exercises、mantras、visualizations などを通して覚醒されます。",
+        "reference": "クンダリーニヨガは、ヨガのポーズ、呼吸、マントラ、ムードラなどを組み合わせてクンダリーニ（自己の魂）の覚醒を目指すものです。"
+    },
+    {
+        "sentenceId": "1921",
+        "codeSwitchedSentence": "一方、多くの国ではicyとsnowyな状況が普通ですが、交通は1年中ほぼ途切れることなく続いています。",
+        "reference": "一方、多くの国では氷雪の多い状況が普通ですが、交通は1年中ほぼ途切れることなく続いています。"
+    },
+    {
+        "sentenceId": "1884",
+        "codeSwitchedSentence": "特に、micro-expressionsを正確に解釈することによって、その人が嘘をついているかどうかをdetectできると主張しています。",
+        "reference": "特に、微表情を正確に解釈することによって、その人が嘘をついているかどうかを見抜けると主張しています。"
+    },
+    {
+        "sentenceId": "1784",
+        "codeSwitchedSentence": "グリーンランド was 過疎な地域でした。In the 北欧の sagas they say that エイリーク the 赤毛 was exiled from アイスランド for murder, and when travelling further 西, found グリーンランド and named it グリーンランド.",
+        "reference": "グリーンランドは過疎な地域でした。北欧の伝承によれば、赤毛のエイリークが殺人罪でアイスランドから追放され、西に向かったときにグリーンランドを発見して、グリーンランドと名付けたとされます。"
+    },
+    {
+        "sentenceId": "1842",
+        "codeSwitchedSentence": "恐竜のfeathersにはwell-developedなshaft, called a rachis, がないものの、他のfeatures of feathers — barbsやbarbules — があることから、研究者らはrachisはこれら他のfeaturesよりも後に起きたevolutionary developmentであった可能性が高いと推測しています。",
+        "reference": "恐竜の羽毛には羽軸と呼ばれる十分に発達した軸がないものの、他の羽毛の特徴である綿羽や小羽枝があることから、研究者らは羽軸はこうした他の特徴よりも後に起きた進化であった可能性が高いと推測しています。"
+    },
+    {
+        "sentenceId": "1751",
+        "codeSwitchedSentence": "この debate は、ハリケーン・カトリーナ の去った後の relief と reconstruction にかかる spending をめぐる controversy に端を発していました。 一部の fiscal 保守派 は、 humorously を込めて これを 「ブッシュ の ニューオリンズ policy」 と呼んでいます。",
+        "reference": "この議論は、ハリケーン・カトリーナの去った後の救済と復興にかかる支出をめぐる論争に端を発していました。一部の財政保守派は、ユーモアを込めてこれを「ブッシュのニューオリンズ政策」と呼んでいます。"
+    },
+    {
+        "sentenceId": "1927",
+        "codeSwitchedSentence": "Angel (2006) は、Continuum approachをorganizationsがより高いperformanceレベルに到達するためのmethodとして説明しています。",
+        "reference": "Angelは2006年に、組織がより高いパフォーマンスレベルに到達するうえで役立つ方法として連続体アプローチを説明しています。"
+    },
+    {
+        "sentenceId": "1974",
+        "codeSwitchedSentence": "同じように、men are required to wear trousers covering the knees を履くことが義務付けられています。",
+        "reference": "同じように、男性は膝を覆うズボンを履くことが義務付けられています。"
+    },
+    {
+        "sentenceId": "1687",
+        "codeSwitchedSentence": "棲み分け and 組み換え shuffle 変異 back and forth between the 二つのプール with each 世代.",
+        "reference": "棲み分けと組み換えは、世代ごとに2つのプールの間を行き来しながら変異をシャッフルします。"
+    },
+    {
+        "sentenceId": "1977",
+        "codeSwitchedSentence": "プライドは、one to three blood-related adult males と as many as thirty females and cubs で構成されます。",
+        "reference": "プライドは、1～3頭の血縁関係にあるオスと30頭余りのメスと子供たちで構成されます。"
+    },
+    {
+        "sentenceId": "1752",
+        "codeSwitchedSentence": "その結果として、在来の2魚種がすでに絶滅し、さらに他の2魚種（humpback chub など）も絶滅の危機に瀕しています。",
+        "reference": "その結果として、在来の2魚種がすでに絶滅し、さらに他の2魚種（ハンプバックチャブなど）も絶滅の危機に瀕しています。"
+    },
+    {
+        "sentenceId": "1746",
+        "codeSwitchedSentence": "Plantsは光合成によってthe sunからtheir foodをmakeします。Theyはalso shadeをprovideしてくれます。",
+        "reference": "植物は光合成によって太陽から養分を作りだします。日陰も作ってくれます。"
+    },
+    {
+        "sentenceId": "1728",
+        "codeSwitchedSentence": "The キャベツの juice changes color depending on how acidic or アルカリ性 the chemical is.",
+        "reference": "キャベツの汁は化学物質に反応し、酸性かアルカリ性（塩基性）かによって色が変わります。"
+    },
+    {
+        "sentenceId": "1819",
+        "codeSwitchedSentence": "古代中国には、時代差を示すuniqueな方法があり、各stageの中国や権力を握っていたfamilyが特徴的なdistinctive dynastyとなりました。",
+        "reference": "古代中国には、時代差を示す独自の方法があり、中国史における各段階、または権力を握っていた一族が特徴的な王朝となりました。"
+    },
+    {
+        "sentenceId": "1773",
+        "codeSwitchedSentence": "睡眠の中断とは、通常のsleep period中にpurposefully目を覚まし、しばらく（10～60分）してから眠りに落ちるプロセスです。",
+        "reference": "睡眠の中断とは、通常の睡眠時間中に意図的に目を覚まし、しばらく（10～60分）してから眠りに落ちるプロセスです。"
+    },
+    {
+        "sentenceId": "1886",
+        "codeSwitchedSentence": "古代の文化や部族は、easy access to milk, hair, meat, and 皮を得るためにヤギを飼い始めました。",
+        "reference": "古代の文化や部族は、乳、毛、肉、皮を簡手に入れやすいヤギを飼い始めました。"
+    },
+    {
+        "sentenceId": "1946",
+        "codeSwitchedSentence": "Cancellation policies はさまざまですが、3月下旬の時点で、ほとんどの coronavirus-based cancellation policies は、オリンピックが予定されていた2020年7月まで延長されません。",
+        "reference": "キャンセルポリシーはさまざまですが、3月下旬の時点で、ほとんどのコロナウイルス関連のキャンセルポリシーは、オリンピックが予定されていた2020年7月まで延長されません。"
+    },
+    {
+        "sentenceId": "1725",
+        "codeSwitchedSentence": "ASUSのEee PCは、earlier launched world-wide for コスト面と機能面で、2007 Taipei IT Monthで話題となりました。",
+        "reference": "ASUSのEee PCは、コスト面と機能面で世界に先駆けて発売され、2007 Taipei IT Monthで話題となりました。"
+    },
+    {
+        "sentenceId": "1805",
+        "codeSwitchedSentence": "Scotturb Bus 403 が Sintra 行きで、Cabo da Roca に stopping し、regularly travels します。",
+        "reference": "シントラ行きのスコッターブバス403が定期的に運行しており、カボ・ダ・ロカに停車します。"
+    },
+    {
+        "sentenceId": "1907",
+        "codeSwitchedSentence": "敵対行為のoutbreakのSoon後に、BritainはGermanyに対するnaval blockadeをinitiatedしました。",
+        "reference": "敵対行為が始まってまもなく、イギリスはドイツに対する海上封鎖を開始しました。"
+    },
+    {
+        "sentenceId": "1692",
+        "codeSwitchedSentence": "日本の nuclear agency によれば、原発内で radioactive caesium と iodine が特定されています。",
+        "reference": "日本の原子力庁によれば、原発内で放射性セシウムとヨウ素が特定されています。"
+    },
+    {
+        "sentenceId": "1859",
+        "codeSwitchedSentence": "towards the end of 中世、西ヨーロッパは独自の様式を開発し始めました。十字軍の結果として当時の最大のdevelopmentsの1つは、衣類をfastenするためにbuttonsを使用し始めたことです。",
+        "reference": "中世の終焉に向かって、西ヨーロッパは独自の様式を開発し始めました。十字軍の結果として生じた当時としては最大の進歩の1つは、衣類を閉じるためにボタンを使用し始めたことです。"
+    },
+    {
+        "sentenceId": "1979",
+        "codeSwitchedSentence": "The official Falklands 通貨は Falkland pound (FKP) で、その価値は1 British pound (GBP) と等価に set されています。",
+        "reference": "フォークランドの公式通貨はフォークランド諸島ポンド（FKP）で1ポンドが1英ポンド（GBP）と等価に固定されています。"
+    },
+    {
+        "sentenceId": "2008",
+        "codeSwitchedSentence": "バリでのagendaには、世界に残っている森林を保存し、developing国が低汚染で成長するために役立つtechnologiesを共有することが含まれています。",
+        "reference": "バリでの議題には、世界に残っている森林を保存し、開発途上国が低汚染で成長するために役立つ技術を共有することが含まれています。"
+    },
+    {
+        "sentenceId": "1856",
+        "codeSwitchedSentence": "Finland は、a great boating destination です。\"Land of a thousand lakes\" として知られるこの国には、the lakes and the coastal archipelagos にも thousands of islands があり、そこにも多くの島があります。",
+        "reference": "フィンランドは、ボート遊びにはもってこいの国です。「千の湖の国」であるフィンランドには、湖や沿岸の群島にも何千もの島があります。"
+    },
+    {
+        "sentenceId": "1679",
+        "codeSwitchedSentence": "Aerosmithはツアーで予定していたtheir remaining concertsをcancelledしました。",
+        "reference": "エアロスミスはツアーで予定していたコンサートを中止しました。"
+    },
+    {
+        "sentenceId": "1952",
+        "codeSwitchedSentence": "Anyone who's going to drive at 高い latitudes or over mountain passes should consider the possibility of snow, ice, or freezing temperatures.",
+        "reference": "緯度の高い場所や峠を運転する人は、雪や氷、氷点下の可能性を考慮する必要があります。"
+    },
+    {
+        "sentenceId": "1997",
+        "codeSwitchedSentence": "しかし、the percentage of XDR-TB in 結核患者全体に占める割合はまだ低いようで、こうしている間にも南アフリカでは330,000人のうち6,000人が感染している。",
+        "reference": "しかし、結核患者全体に占めるXDR-TBの割合はまだ低いようで、こうしている間にも南アフリカでは33万人のうち6,000人が感染している。"
+    },
+    {
+        "sentenceId": "1999",
+        "codeSwitchedSentence": "1960年代を通して、BrzezinskiはJohn F. Kennedyのadvisorを務め、その後Lyndon B. Johnson administrationでも活躍しました。",
+        "reference": "1960年代を通して、ブレジンスキーはジョン・F・ケネディの顧問を務め、その後リンドン・B・ジョンソン政権でも活躍しました。"
+    },
+    {
+        "sentenceId": "1733",
+        "codeSwitchedSentence": "First among its 78 recommendations is that 新たな diplomatic initiative should be taken 年内に to secure Iraq’s borders against hostile interventions and re-establish diplomatic relations with its neighbors.",
+        "reference": "78ある提言うち最初に挙げられているのは、敵対的な介入に対してイラクの国境を確保し、近隣諸国との外交関係を再び確立するために、年内に新たな外交主導権を発揮するべきだというものです。"
+    },
+    {
+        "sentenceId": "1669",
+        "codeSwitchedSentence": "Police superintendentのチャンドラ・シェカール・ソランキによれば、the accusedは顔を隠してcourtに出頭したそうです。",
+        "reference": "警察のチャンドラ・シェカール・ソランキ総監によれば、被告人は顔を隠して法廷に出頭したそうです。"
+    },
+    {
+        "sentenceId": "1865",
+        "codeSwitchedSentence": "サンクトペテルブルクのクルーズ include time in town. クルーズの乗客はビザが免除されます (check the terms).",
+        "reference": "サンクトペテルブルクのクルーズには街での滞在時間が含まれています。クルーズの乗客はビザが免除されます（条件を確認してください）。"
+    },
+    {
+        "sentenceId": "1735",
+        "codeSwitchedSentence": "米国のPrinceton大学とスウェーデンのUppsala大学の研究者らは、新種がわずか2世代で進化したことを報告しましたが、この過程は固有種のDarwin finch、Geospiza fortes と移入種のcactus finch、Geospiza conirostrisが交配した繁殖であるため、もっと長い時間がかかると考えられていました。",
+        "reference": "米国のプリンストン大学とスウェーデンのウプサラ大学の研究者らは、この新種がわずか2世代で進化したことを報告しましたが、この過程は、固有種のガラパゴスフィンチと移入種のオオサボテンフィンチが交配した繁殖であるため、もっと長い時間がかかると考えられていました。"
+    },
+    {
+        "sentenceId": "1661",
+        "codeSwitchedSentence": "彼は、cutsのfigureをsetしませんでしたが、saying それらはChina's economic outputにbasedしてmadeされるだろうと述べました。",
+        "reference": "胡氏は、削減する数値を定めませんでしたが、削減は中国の経済産出量に基づいて実施されるだろうと述べました。"
+    },
+    {
+        "sentenceId": "1772",
+        "codeSwitchedSentence": "そのため, it is likely that the 表記 was added simply as a ラベル.",
+        "reference": "そのため、単にラベルとして表記が追加されがちです。"
+    },
+    {
+        "sentenceId": "1874",
+        "codeSwitchedSentence": "彼の説をrightと思う人もいましたが、多くの人はthe oppositeを信じていて、the Solar Systemは地球の周りをSun（とother stars）が移動していると信じていました。",
+        "reference": "彼の説を正しいと認める人もいましたが、多くの人はその逆で、太陽系では太陽（とその他の星）が地球の周りを移動していると信じていました。"
+    },
+    {
+        "sentenceId": "1906",
+        "codeSwitchedSentence": "これはgoodbyeではありません。これは1つのchapterの終わりであり、新しいchapterの幕開けです。",
+        "reference": "「お別れではありません。これは1つの章の終わりであり、新しい章の幕開けです。」"
+    },
+    {
+        "sentenceId": "1761",
+        "codeSwitchedSentence": "The photographers は 写真家たち の 代わりをして、 高齢の女性 が ご不浄 に 行きたがった。Mendoza 容疑者 は 銃殺 された。",
+        "reference": "写真家たちはご不浄に行きたがった高齢の女性の身代わりとなった。メンドーサ容疑者は銃殺された。"
+    },
+    {
+        "sentenceId": "1978",
+        "codeSwitchedSentence": "For the スプリングボックス, it ended a five-match losing streak が止まりました。",
+        "reference": "スブリングボックにとっては、5連敗が止まりました。"
+    },
+    {
+        "sentenceId": "1914",
+        "codeSwitchedSentence": "20世紀のresearch has shown that there are two pools of genetic variation: hidden and expressed.",
+        "reference": "20世紀の研究では、遺伝的変異には隠れたものと発現したものの2つの遺伝子プールがあることがわかっています。"
+    },
+    {
+        "sentenceId": "1686",
+        "codeSwitchedSentence": "その結果、organizationが協力して障害を克服するプロセスは、customerのニーズに応えるための新しいinnovative processにつながる可能性があります。",
+        "reference": "その結果、組織が協力して障害を克服するプロセスは、顧客のニーズに応えるための新しい革新的なプロセスにつながる可能性があります。"
+    },
+    {
+        "sentenceId": "1743",
+        "codeSwitchedSentence": "Most interpretations of 技術決定論 share two general ideas: that the development of技術 itself follows a path largely beyond 文化的・政治的な影響, and that 技術 in turn has「effects」on societies that are 内在する, rather than 社会的に条件づけられた.",
+        "reference": "技術決定論のほとんどの解釈は、2つの一般論を共有しています。1つは技術の発展自体が文化的・政治的な影響を大きく超えた道をたどっていること、もう1つは技術が社会的に条件づけられたものではなく、むしろ内在する社会に「影響」を与えることです。"
+    },
+    {
+        "sentenceId": "1893",
+        "codeSwitchedSentence": "スンダルバンスは世界最大のlittoral mangrove beltであり、海岸からバングラデシュとインドの内陸地域まで80 km（50マイル）にわたって広がっています。",
+        "reference": "スンダルバンスは世界最大の沿岸マングローブ地帯であり、海岸からバングラデシュとインドの内陸地域まで80 km（50マイル）にわたって広がっています。"
+    },
+    {
+        "sentenceId": "1699",
+        "codeSwitchedSentence": "ある観察者がビシュケクを「sinking into a state of anarchy」に陥っていると表現したように、gangsたちが街路を徘徊し、consumer goods店を略奪しました。",
+        "reference": "ある観察者がビシュケクを「無政府状態」に陥っていると表現したように、ギャングたちが街路を徘徊し、日用品店を略奪しました。"
+    },
+    {
+        "sentenceId": "1763",
+        "codeSwitchedSentence": "Just like 月の引力で地球に潮の満ち引きが起きるように, the 天の川は射手座銀河にも力を及ぼしています.",
+        "reference": "月の引力で地球に潮の満ち引きが起きるように、天の川は射手座銀河にも力を及ぼしています。"
+    },
+    {
+        "sentenceId": "1711",
+        "codeSwitchedSentence": "These 理論は、ある種の人々が why they want to do certain こと and what 環境要因 might make them 行動する or not 行動しない certain ことを考察します。",
+        "reference": "これらの理論では、ある種の人々が日常的に特定のことをしたがる動機について、そして彼らに特定のことをさせる、あるいはさせない環境要因について考察します。"
+    },
+    {
+        "sentenceId": "1732",
+        "codeSwitchedSentence": "この事件が起きた時代は commonly referred as the 中世盛期, 一般的に the period of ヨーロッパ史 in the 11th, 12th, and 13th centuries (西暦1000年～1300年) に相当します。",
+        "reference": "この事件が起きた時代は中世盛期と呼ばれ、一般的にヨーロッパ史で11世紀、12世紀、13世紀（西暦1000年～1300年）の期間が相当します。"
+    },
+    {
+        "sentenceId": "1778",
+        "codeSwitchedSentence": "テレビの報道によると、Television reportsは原発からwhite smokeが上がっています。",
+        "reference": "テレビの報道によると、原発から白煙が上がっています。"
+    }
+]

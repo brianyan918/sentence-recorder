@@ -1,0 +1,252 @@
+[
+    {
+        "sentenceId": "1917",
+        "codeSwitchedSentence": "Mehrere large Fernsehscreens were an verschiedenen Orten in Rom aufgestellt, so dass the Leute die Zeremonie ansehen konnten.",
+        "reference": "Mehrere große Fernsehschirme wurden an verschiedenen Orten in Rom aufgestellt, so dass die Leute die Zeremonie ansehen konnten."
+    },
+    {
+        "sentenceId": "1945",
+        "codeSwitchedSentence": "Casablanca ist einer der least interesting Orte zum Shoppen in ganz Marokko.",
+        "reference": "Casablanca ist einer der uninteressantesten Orte zum Shoppen in ganz Marokko."
+    },
+    {
+        "sentenceId": "1768",
+        "codeSwitchedSentence": "Die meisten buildings an den edges des Komplexes wurden rebuilt, um den tourists einen besseren Eindruck davon zu vermitteln, wie sie originally aussahen.",
+        "reference": "Die meisten Gebäude an den Rändern des Komplexes wurden wieder aufgebaut, um den Touristen einen besseren Eindruck davon zu vermitteln, wie sie ursprünglich aussahen."
+    },
+    {
+        "sentenceId": "1795",
+        "codeSwitchedSentence": "Seit 1988 müssen ballot boxes transparent sein, damit Wähler und observers bezeugen können, dass zu Beginn der Wahl keine envelopes vorhanden sind und dass keine envelopes eingeworfen werden, außer jene der ordnungsgemäß gezählten und autorisierten Wähler.",
+        "reference": "Seit 1988 müssen Wahlurnen transparent sein, damit Wähler und Beobachter bezeugen können, dass zu Beginn der Wahl keine Umschläge vorhanden sind und dass keine Umschläge eingeworfen werden, außer jene der ordnungsgemäß gezählten und autorisierten Wähler."
+    },
+    {
+        "sentenceId": "1742",
+        "codeSwitchedSentence": "Hong Kong Island ist Namensgeber für das Territorium Hong Kong und steht für viele Touristen im main focus.",
+        "reference": "Hong Kong Island ist Namensgeber für das Territorium Hongkong und steht für viele Touristen im Mittelpunkt."
+    },
+    {
+        "sentenceId": "1678",
+        "codeSwitchedSentence": "In seinem Artikel The President's Speech zeigte Oliver Sacks auf, wie people, die wegen eines brain damage keine Sprache mehr verstehen können, trotzdem die sincerity von Menschen richtig assessen können.",
+        "reference": "In seinem Artikel Die Rede des Präsidenten zeigte Oliver Sacks auf, wie Leute, die wegen eines Hirnschadens keine Sprache mehr verstehen können, trotzdem die Ehrlichkeit von Menschen richtig einschätzen können."
+    },
+    {
+        "sentenceId": "1944",
+        "codeSwitchedSentence": "Es gibt family Strände, die manchmal überlaufen sind, mit einer schönen Einkaufspromenade und shops entlang der Küste. Das Schwimmen ist hier safe.",
+        "reference": "Es gibt Familienstrände, die manchmal überlaufen sind, mit einer schönen Einkaufspromenade entlang der Küste. Das Schwimmen ist hier sicher."
+    },
+    {
+        "sentenceId": "1887",
+        "codeSwitchedSentence": "While er am hospital working war, begann Liggins in seiner Freizeit damit, vorzeitige Wehen zu untersuchen.",
+        "reference": "Während seiner Arbeit im Krankenhaus begann Liggins in seiner Freizeit damit, vorzeitige Wehen zu untersuchen."
+    },
+    {
+        "sentenceId": "1909",
+        "codeSwitchedSentence": "Virtuelle Teams werden nach den gleichen standards der excellence geführt wie konventionelle teams, aber es gibt subtile Unterschiede.",
+        "reference": "Virtuelle Teams werden nach den gleichen Exzellenzstandards geführt wie konventionelle Teams, aber es gibt subtile Unterschiede."
+    },
+    {
+        "sentenceId": "1666",
+        "codeSwitchedSentence": "You may auch die Ratschläge anderer Regierungen als der your own konsultieren, aber deren Hinweise sind für ihre citizens zugeschnitten.",
+        "reference": "Sie können auch die Ratschläge anderer Regierungen als der Ihren konsultieren. Deren Hinweise sind jedoch auf ihre eigenen Staatsbürger zugeschnitten."
+    },
+    {
+        "sentenceId": "1915",
+        "codeSwitchedSentence": "Sie können Bodabodas (motorcycle taxis) benutzen, um in Goma herumzukommen. Der normale (lokale) Preis liegt bei ~500 Congolese Francs für die kurze Fahrt.",
+        "reference": "Sie können Bodabodas (Motorradtaxis) benutzen, um in Goma herumzukommen. Der übliche (lokale) Preis liegt bei ~500 Kongolesischen Francs für die kurze Fahrt.x"
+    },
+    {
+        "sentenceId": "1976",
+        "codeSwitchedSentence": "Die Middle order batsmen, Sachin Tendulkar und Rahul Dravid, zeigten gute Leistungen und erzielten eine Partnerschaft mit 100 Runs.",
+        "reference": "Die Schlagmänner der mittleren Reihe, Sachin Tendulkar und Rahul Dravid, zeigten gute Leistungen und erzielten eine Partnerschaft mit 100 Runs."
+    },
+    {
+        "sentenceId": "1750",
+        "codeSwitchedSentence": "Der find gewährt auch insight in die evolution von feathers bei the birds.",
+        "reference": "Der Fund gewährt auch Einblicke in die Evolution von Federn bei Vögeln."
+    },
+    {
+        "sentenceId": "1993",
+        "codeSwitchedSentence": "Der tenth named Sturm der atlantischen Hurrikan-season, der Subtropical Sturm Jerry, ist today im Atlantischen Ozean entstanden.",
+        "reference": "Der zehnte Sturm der atlantischen Hurrikan-Saison, der einen Namen erhielt, der subtropische Sturm Jerry, ist heute im Atlantischen Ozean entstanden."
+    },
+    {
+        "sentenceId": "1670",
+        "codeSwitchedSentence": "\"Ihr thermal behavior ist nicht so gleichmäßig wie das großer caves auf der Erde, die oft eine ziemlich konstante Temperatur haben, aber es stimmt damit überein, dass es sich um tiefe Löcher im Boden handelt,\" sagte Glen Cushing vom United States Geological Survey (USGS) Astrogeology Team und der Northern Arizona University in Flagstaff, Arizona.",
+        "reference": "\"Ihr thermisches Verhalten ist nicht so gleichmäßig wie das großer Höhlen auf der Erde, die oft eine ziemlich konstante Temperatur haben, aber es stimmt damit überein, dass es sich um tiefe Löcher im Boden handelt\"\", sagte Glen Cushing vom Astrogeologie-Team des United States Geological Survey (USGS) und der Northern Arizona University in Flagstaff, Arizona.\""
+    },
+    {
+        "sentenceId": "1920",
+        "codeSwitchedSentence": "Sie haben normalerweise besondere Angebote an Speisen, Getränken und Entertainment, um die Gäste bei Laune zu halten und dafür zu sorgen, dass sie auf dem Premise bleiben.",
+        "reference": "Sie haben normalerweise ein besonderes Angebot an Speisen, Getränken und Unterhaltung, um die Gäste bei Laune zu halten und dafür zu sorgen, dass sie bleiben."
+    },
+    {
+        "sentenceId": "1848",
+        "codeSwitchedSentence": "Eine car bomb detonierte am Morgen des gestrigen Tages im police headquarters des türkischen Gaziantep, tötete two police officers und injured mehr als twenty other people.",
+        "reference": "Eine Autobombe detonierte am Morgen des gestrigen Tages im Polizeipräsidium des türkischen Gaziantep, tötete zwei Polizisten und verwundete über zwanzig weitere Menschen."
+    },
+    {
+        "sentenceId": "1994",
+        "codeSwitchedSentence": "Wenn man eine Romance language spricht, ist es natürlich leichter, Portuguese zu erlernen.",
+        "reference": "Wenn man eine romanische Sprache spricht, ist es  natürlich leichter, Portugiesisch zu erlernen."
+    },
+    {
+        "sentenceId": "1828",
+        "codeSwitchedSentence": "Eine search des Internets for 'Hostile environment course' wird probably die Adresse einer örtlichen company anzeigen.",
+        "reference": "\"Eine Internetsuche nach \"\"Kurs über feindselige Umgebungen\"\" wird vermutlich die Adresse eine örtlichen Firma anzeigen.\""
+    },
+    {
+        "sentenceId": "1896",
+        "codeSwitchedSentence": "USA Gymnastics und das USOC haben das gleiche Ziel - den Sport des gymnastics und andere Sportarten für die Athleten so sicher wie möglich zu machen, damit sie ihren Träumen in einer sicheren, positiven und selbstbestimmten Umgebung folgen können.",
+        "reference": "USA Gymnastics und das USOC haben das gleiche Ziel - den Turnsport und andere Sportarten für die Athleten so sicher wie möglich zu machen, damit sie ihren Träumen in einer sicheren, positiven und selbstbestimmten Umgebung folgen können."
+    },
+    {
+        "sentenceId": "1878",
+        "codeSwitchedSentence": "Die Zentralgewalt der Kirche war seit mehr als tausend Jahren in Rome und diese Konzentration von power und money veranlasste viele zu question, ob diesem tenet entsprochen wurde.",
+        "reference": "Die Zentralgewalt der Kirche war seit mehr als tausend Jahren in Rom. Diese Konzentration von Macht und Geld veranlasste viele zu zweifeln, ob diesem Grundsatz entsprochen wurde."
+    },
+    {
+        "sentenceId": "1682",
+        "codeSwitchedSentence": "While niemand mit Sicherheit weiß, wer es geschrieben hat, ist es known, dass das große Pergamentdokument (welches 29¾ Zoll x 24½ Zoll misst) zu Beginn seines Lebens for storage zusammengerollt wurde.",
+        "reference": "Zwar weiß niemand mit Sicherheit, wer es geschrieben hat, es ist allerdings bekannt, dass das große Pergamentdokument (welches 29¾ Zoll x 24½ Zoll misst) zu Beginn seines Lebens zur Aufbewahrung zusammengerollt wurde."
+    },
+    {
+        "sentenceId": "1892",
+        "codeSwitchedSentence": "Das ist the place, das sich the British Kolonisten zu eigen gemacht haben, und if Sie nach Spuren der kolonialen Vergangenheit des Gebiets suchen, ist this ein good Ausgangspunkt to start.",
+        "reference": "Das ist der Ort, den sich die britischen Kolonisten zu eigen gemacht haben. Wenn Sie nach Spuren der kolonialen Vergangenheit des Gebiets suchen, ist dies ein guter Ausgangspunkt."
+    },
+    {
+        "sentenceId": "1696",
+        "codeSwitchedSentence": "Die zwei compounds reagieren miteinander und formen crystals, die laut Forschern der Hochschule die kidney function behindern können.",
+        "reference": "Die zwei Verbindungen reagieren miteinander und formen Kristalle, die laut Forschern der Hochschule die Nierentätigkeit behindern können."
+    },
+    {
+        "sentenceId": "1863",
+        "codeSwitchedSentence": "Im Zentrum der Tibetan meditation steht das Deity Yoga. Durch die visualization verschiedener Gottheiten werden die energy channels gereinigt, die chakras geöffnet und das enlightenment consciousness entsteht.",
+        "reference": "Im Zentrum der tibetischen Meditation steht das Götter-Yoga. Durch die Visualisierung verschiedener Gottheiten werden die Energiekanäle gereinigt, die Chakren geöffnet und das erleuchtete Bewusstsein entsteht."
+    },
+    {
+        "sentenceId": "1871",
+        "codeSwitchedSentence": "Im warmen Klima des Middle East kamen Häusern nicht so eine große Bedeutung zu.",
+        "reference": "Im warmen Klima des Mittleren Ostens kamen Häusern keine so große bedeutung zu."
+    },
+    {
+        "sentenceId": "1808",
+        "codeSwitchedSentence": "Zwei years nach dem Ende of the war waren die ehemaligen Alliierten now enemies und der Cold War begann.",
+        "reference": "Zwei Jahre nach Kriegsende waren die ehemaligen Alliierten nun Feinde und der Kalte Krieg begann."
+    },
+    {
+        "sentenceId": "1827",
+        "codeSwitchedSentence": "The crust ist auf der nahen Seite etwa 70 km thick and auf der fernen Seite 100 km.",
+        "reference": "Die Kruste ist auf der nahen Seite etwa 70 km dick und auf der fernen Seite 100 km."
+    },
+    {
+        "sentenceId": "1981",
+        "codeSwitchedSentence": "If Sie nur im Zuge der Bordexkursionen an Land gehen, brauchen Sie kein separates visa (Stand 2009).",
+        "reference": "Wenn Sie nur im Zuge der Bordexkursionen an Land gehen, brauchen Sie kein separates Visum (Stand 2009)."
+    },
+    {
+        "sentenceId": "1948",
+        "codeSwitchedSentence": "Die Zeit der Three Kingdoms war eine der blutigsten eras in der Geschichte des alten China. Thousands von Menschen starben im Kampf um den höchsten seat im grand Palast von Xi'an.",
+        "reference": "Die Zeit der drei Königreiche war eine der blutigsten Epochen in der Geschichte des alten China. Tausende von Menschen starben im Kampf um den höchsten Thron im großen Palast von Xi'an."
+    },
+    {
+        "sentenceId": "1769",
+        "codeSwitchedSentence": "Im dritten Jahrhundert BCE von den Ägyptern erbaut, ist die Cheops-Pyramide eine von many großen pyramid structures, die zur Verehrung verstorbener Pharaoh erbaut wurden.",
+        "reference": "Im dritten Jahrhundert v. Chr. von den Ägyptern erbaut, ist die Cheops-Pyramide eine von vielen großen Pyramidenstrukturen, die zur Verehrung verstorbener Pharaonen erbaut wurden."
+    },
+    {
+        "sentenceId": "1965",
+        "codeSwitchedSentence": "Fast alle sind sandy beaches mit sicheren swimming Möglichkeiten und die meisten bieten shade, der von Pohutukawa-Bäumen gespendet wird.",
+        "reference": "Fast alle sind Sandstrände mit sicheren Bademöglichkeiten und die meisten bieten Schatten, der von Pohutukawa-Bäumen gespendet wird."
+    },
+    {
+        "sentenceId": "1810",
+        "codeSwitchedSentence": "Der kalifornische Gouverneur Arnold Schwarzenegger signed einen Gesetzentwurf, der den Verkauf oder Verleih von violent Videospielen an Minderjährige verbietet.",
+        "reference": "Der kalifornische Gouverneur Arnold Schwarzenegger unterzeichnete einen Gesetzentwurf, der den Verkauf oder Verleih von Videospielen, die Gewalt beinhalten, an Minderjährige verbietet."
+    },
+    {
+        "sentenceId": "1758",
+        "codeSwitchedSentence": "The Archipel lies 120 km north der Halbinsel. Die largest ist King George Island with der settlement Villa Las Estrellas.",
+        "reference": "Der Archipel liegt 120 km nördlich der Halbinsel. Die größte ist King George Island mit der Siedlung Villa Las Estrellas."
+    },
+    {
+        "sentenceId": "1713",
+        "codeSwitchedSentence": "Während Goma einigermaßen safe ist, sollte jeder Aufenthalt außerhalb Gomas carefully geplant werden, um den Stand der in der North Kivu Provinz andauernden Kämpfe zu erfahren.",
+        "reference": "Während Goma einigermaßen sicher ist, sollte jeder Aufenthalt außerhalb Gomas sorgfältig geplant werden, um den Stand der in der Provinz Nord-Kivu andauernden Kämpfe zu erfahren."
+    },
+    {
+        "sentenceId": "1988",
+        "codeSwitchedSentence": "In den 1920er-Jahren waren die prevailing Einstellungen der meisten citizens und Länder die von Pazifismus und Isolation.",
+        "reference": "In den 1920er-Jahren waren Pazifismus und Isolation die vorherrschenden Einstellungen der meisten Bürger und Länder."
+    },
+    {
+        "sentenceId": "1895",
+        "codeSwitchedSentence": "Mit dem Verlust griechischer Sprachkenntnisse war der Westen as von seinen philosophischen und wissenschaftlichen roots in Griechenland abgeschnitten.",
+        "reference": "Mit dem Verlust griechischer Sprachkenntnisse war der Westen von seinen philosophischen und wissenschaftlichen Wurzeln in Griechenland abgeschnitten."
+    },
+    {
+        "sentenceId": "1910",
+        "codeSwitchedSentence": "Parisern sagt man nach, egozentrisch, rude und arrogant zu sein.",
+        "reference": "Parisern sagt man nach, egozentrisch, unhöflich und arrogant zu sein."
+    },
+    {
+        "sentenceId": "1903",
+        "codeSwitchedSentence": "Wenn alle verfügbaren resources effektiv über alle functional departments einer Organisation genutzt werden, können creativity und ingenuity hervorgehen.",
+        "reference": "Wenn alle verfügbaren Ressourcen über alle Fachabteilungen einer Organisation effektiv genutzt werden, können Kreativität und Einfallsreichtum hervorgehen."
+    },
+    {
+        "sentenceId": "1913",
+        "codeSwitchedSentence": "Das roar des Tigers hört sich nicht so an wie das full-voiced roar des Löwens, sondern eher wie ein snarly gebrüllter sentence.",
+        "reference": "Das Gebrüll des Tigers hört sich nicht so an wie das vollmundige Gebrüll des Löwens, sondern eher wie ein Satz aus knurrigen gebrüllten Worten."
+    },
+    {
+        "sentenceId": "1689",
+        "codeSwitchedSentence": "Europe ist ein relativ kleiner Kontinent, hat aber viele unabhängige Länder. Normalerweise müsste man mehrfach Visa beantragen und mehrere Passkontrollen durchlaufen, wenn man durch viele independent countries reisen möchte.",
+        "reference": "Europa ist ein relativ kleiner Kontinent, hat aber zahlreiche unabhängige Länder. Normalerweise müsste man mehrfach Visa beantragen und mehrere Passkontrollen durchlaufen, wenn man durch mehrere Länder reisen möchte."
+    },
+    {
+        "sentenceId": "1760",
+        "codeSwitchedSentence": "Mosasaurus war das apex predator seiner Zeit, somit fürchtete er sich vor nichts außer anderen Mosasauriern.",
+        "reference": "Der Mosasaurus war das größte Raubtier seiner Zeit, somit fürchtete er sich vor nichts außer anderen Mosasauriern."
+    },
+    {
+        "sentenceId": "1800",
+        "codeSwitchedSentence": "The Brücke ist scheduled, um im September 2017 vollständig den Betrieb aufzunehmen, wenn die brasilianischen Zollkontrollpunkte expected finished sein werden.",
+        "reference": "Die Brücke soll im September 2017 vollständig den Betrieb aufnehmen. Es wird erwartet, dass die brasilianischen Zollkontrollpunkte dann fertig gestellt sein werden."
+    },
+    {
+        "sentenceId": "1797",
+        "codeSwitchedSentence": "Everyone nimmt an der Gesellschaft teil und uses Transportsysteme. Almost everyone beklagt sich über die Transportsysteme.",
+        "reference": "Jeder nimmt an der Gesellschaft teil und benutzt Transportsysteme. Fast jeder beklagt sich über die Transportsysteme.x"
+    },
+    {
+        "sentenceId": "1833",
+        "codeSwitchedSentence": "Aristoteles, ein philosopher, stellte die Theorie auf, dass alles aus einer mixture aus einem oder mehreren von vier elements besteht. Dabei handelte es sich um Erde, Wasser, Luft und fire.",
+        "reference": "Aristoteles, ein Philosoph, stellte die Theorie auf, dass alle Dinge aus einer Mischung aus einem oder mehreren von vier Elementen bestehen. Dabei handelte es sich um Erde, Wasser, Luft und Feuer."
+    },
+    {
+        "sentenceId": "1710",
+        "codeSwitchedSentence": "Last Woche gab das METI bekannt, dass es von Apple über 34 weitere Überhitzungsincidents informiert worden war, welche die company als „non-serious\" bezeichnete.",
+        "reference": "\"Letzte Woche gab das METI bekannt, dass es von Apple über 34 weitere Vorfälle von Überhitzung informiert worden war, die das Unternehmen als „nicht schwerwiegend\"\" bezeichnete.\""
+    },
+    {
+        "sentenceId": "1726",
+        "codeSwitchedSentence": "Exkursionen sind ein wichtiger Bestandteil für jede Schulklasse. Quite often würde eine Lehrerin ihre Schülerinnen und Schüler gerne an Orte bringen, zu denen eine Busfahrt nicht in Frage kommt.",
+        "reference": "Exkursionen sind ein wichtiger Bestandteil für jede Schulklasse. Nicht selten würde eine Lehrerin ihre Schülerinnen und Schüler gerne an Orte bringen, zu denen eine Busfahrt nicht in Frage kommt."
+    },
+    {
+        "sentenceId": "1962",
+        "codeSwitchedSentence": "Der pH-Level wird durch die amount of Wasserstoffionen (das H in pH) in den getesteten chemical indicated.",
+        "reference": "Der pH-Level weist auf die Menge der Wasserstoffionen (das H in pH) in den getesteten Chemikalien hin."
+    },
+    {
+        "sentenceId": "1774",
+        "codeSwitchedSentence": "Auf den abgelegenen Inseln werden Kreditkarten wahrscheinlich nicht accepted, wobei jedoch British und United States currency angenommen werden können; checken Sie im Voraus mit den Eigentümern, welche Zahlungsmethode acceptable ist.",
+        "reference": "Auf den abgelegenen Inseln werden Kreditkarten wahrscheinlich nicht akzeptiert, wobei jedoch britische und US-amerikanische Währung angenommen werden können; erkundigen Sie sich im Voraus bei den Eigentümern, welche Zahlungsmethode akzeptiert wird."
+    },
+    {
+        "sentenceId": "1734",
+        "codeSwitchedSentence": "Die Wissenschaftler konnten zu dem Schluss kommen, dass die dunkle Materie auf andere dunkle Materie in der gleichen Weise wirkt wie normale Materie.",
+        "reference": "Die Wissenschaftler kamen zu dem Schluss, dass die dunkle Materie auf andere dunkle Materie in der gleichen Weise wirkt wie normale Materie."
+    }
+]

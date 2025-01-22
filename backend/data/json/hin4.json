@@ -1,0 +1,252 @@
+[
+    {
+        "sentenceId": "1889",
+        "codeSwitchedSentence": "इसने हमें train, car और इसी प्रकार के कई अन्य transportation devices दिए हैं।",
+        "reference": "इसने हमें ट्रेन, कार और इसी प्रकार के कई अन्य परिवहन के साधन दिए हैंं।"
+    },
+    {
+        "sentenceId": "1791",
+        "codeSwitchedSentence": "चीज़ों को deface न करें marking या scratching graffiti करके structures पर.",
+        "reference": "चीज़ों पर कुछ बनाकर या खरोंच कर इस जगह को नुक़सान न पहुँचाएँ."
+    },
+    {
+        "sentenceId": "1802",
+        "codeSwitchedSentence": "इंटरनेट, लोगों और mass तथा interpersonal communication के तत्वों को मिलाता है।",
+        "reference": "इंटरनेट, लोगों और अंतर-परस्पर संचार, दोनों के तत्वों को मिलाता है."
+    },
+    {
+        "sentenceId": "1867",
+        "codeSwitchedSentence": "पौधे oxygen बनाते हैं जिसका उपयोग humans breathe में करते हैं और वे carbon-dioxide लेते हैं जो humans exhale (यानी साँस छोड़ते हैं).",
+        "reference": "पौधे ऑक्सीजन बनाते हैं जिसका उपयोग मनुष्य साँस लेने में करते हैं और वे कार्बन-डाइऑक्साइड लेते हैं जो मनुष्य साँस से छोड़ते हैं (यानी साँस छोड़ते हैं)."
+    },
+    {
+        "sentenceId": "1730",
+        "codeSwitchedSentence": "इंटर-डिस्ट्रिक्ट बस स्टेशन (जो नदी के उस पार है) से दिन भर buses चलती हैं, हालांकि ज़्यादातर, खास कर east और Jakar/Bumthang की ओर जाने वाली buses सुबह 06:30 और 07:30 के बीच जाती हैं।",
+        "reference": "इंटर-डिस्ट्रिक्ट बस स्टेशन (जो नदी के उस पार है) से दिन भर बसें चलती हैं, हालांकि ज़्यादातर, खास कर पूर्व और जाकार/बुमतांग की ओर जाने वाली बसें सुबह 06:30 और 07:30 के बीच जाती हैं."
+    },
+    {
+        "sentenceId": "1956",
+        "codeSwitchedSentence": "सामान को transport करने के लिए ships का इस्तेमाल करना oceans के एक सिरे से दूसरे सिरे तक large मात्रा में लोगों और सामान को move करने का by far सबसे efficient तरीका है।",
+        "reference": "सामान के ट्रांसपोर्ट के लिए जहाज़ों का इस्तेमाल करना समुद्रों के एक सिरे से दूसरे सिरे तक बड़ी मात्रा में लोगों और सामान को लाने और ले जाने का बहुत ज़्यादा प्रभावी तरीका है."
+    },
+    {
+        "sentenceId": "2000",
+        "codeSwitchedSentence": "अगर आप winter में Northern Baltic को पार करते हैं, तो आपको cabin location की जांच करनी होगी, as ice से गुजरने पर जो लोग सबसे ज्यादा affected हैं उन्हें काफी भयानक शोर महसूस होगा।",
+        "reference": "अगर आप सर्दियों में उत्तरी बाटलिक को पार करते हैं, तो आपको केबिन स्थान की जांच करनी होगी , क्योंकि क्योंकि जो लोग ज्यादा प्रभावित है उन्हें बर्फ से गुजरने पर काफी भयानक शोर महसूस होगा ।"
+    },
+    {
+        "sentenceId": "1877",
+        "codeSwitchedSentence": "वर्तमान senator और अर्जेंटीना की प्रथम महिला क्रिस्टीना Fernandez de Kirchner ने कल शाम ब्यूनस आयर्स से 50 किलोमीटर (31 मील) दूर शहर ला प्लाटा में अपने presidential candidacy की घोषणा की।",
+        "reference": "वर्तमान सीनेटर और अर्जेंटीना की प्रथम महिला क्रिस्टीना फ़र्नांडीज़ डी किर्चनेर ने कल शाम ब्यूनस आयर्स से 50 किलोमीटर (31 मील) दूर शहर ला प्लाटा में अपने राष्ट्रपति पद की उम्मीदवारी की घोषणा की."
+    },
+    {
+        "sentenceId": "1821",
+        "codeSwitchedSentence": "मस्तिष्क pathology और behaviour के बीच correlation वैज्ञानिकों को उनके research में support करता है।",
+        "reference": "मस्तिष्क विकृति और व्यवहार के बीच संबंध अनुसंधान में वैज्ञानिकों का समर्थन करते हैं."
+    },
+    {
+        "sentenceId": "1851",
+        "codeSwitchedSentence": "चीर currents समुद्र तट पर लगकर लौटने वाली लहरों का प्रवाह होता है, often एक चट्टान या similar पदार्थों पर।",
+        "reference": "चीर धाराएँ समुद्र तट पर लगकर लौटने वाली लहरों का प्रवाह होता है, अक्सर एक चट्टान या इसी तरह के पदार्थों पर।"
+    },
+    {
+        "sentenceId": "1846",
+        "codeSwitchedSentence": "The aspect ratio of इस प्रारूप (सबसे सरल whole-number अनुपात प्राप्त करने के लिए बारह से divide करना) को इसलिए 3:2 कहा जाता है।",
+        "reference": "इस प्रारूप (सबसे सरल पूर्ण-संख्या अनुपात प्राप्त करने के लिए बारह से भाग देना) के अभिमुखता अनुपात को इसलिए 3:2 कहा जाता है।"
+    },
+    {
+        "sentenceId": "1723",
+        "codeSwitchedSentence": "In 1889, यह harbor एक infamous naval standoff का site था जब Germany, US और Britain के सात ships ने इस harbor से leave करने से इनकार कर दिया था।",
+        "reference": "1889 में यह बंदरगाह कुख्यात नौसैनिक गतिरोध का ठिकाना था उस समय जर्मनी, अमेरिका और ब्रिटेन के सात जहाजों ने इस बंदरगाह से जाने से इनकार कर दिया था."
+    },
+    {
+        "sentenceId": "1881",
+        "codeSwitchedSentence": "असल में field trip साझा करना यात्रा पर विचार करने और future classes के साथ experiences share करने का एक शानदार तरीका है.",
+        "reference": "असल में फील्ड ट्रिप साझा करना यात्रा पर विचार करने और भविष्य की कक्षाओं के साथ अनुभव करने का एक शानदार तरीका है."
+    },
+    {
+        "sentenceId": "1860",
+        "codeSwitchedSentence": "राज्यपाल के कार्यालय ने बताया कि घायलों में से उन्नीस police officers थे।",
+        "reference": "राज्यपाल के कार्यालय ने बताया कि घायलों में से उन्नीस पुलिस अधिकारी थे।"
+    },
+    {
+        "sentenceId": "1868",
+        "codeSwitchedSentence": "वहीं spectrum का दूसरा सिरा, कोई व्यक्ति morphs into an unrecognizable individual जो महसूस करता है कि उसे team में सब कुछ बदल देना चाहिए और उसे अपने हिसाब से बनाना चाहिए.",
+        "reference": "वहीं स्पेक्ट्रम का दूसरा सिरा, कोई व्यक्ति किसी ऐसे अपिरिचित व्यक्ति का रूप लेता है जिसे लगता है कि उसे टीम में सब कुछ बदल देना चाहिए और उसे अपने हिसाब से बनाना चाहिए."
+    },
+    {
+        "sentenceId": "1949",
+        "codeSwitchedSentence": "The term bug का उपयोग कीटविज्ञानियों द्वारा एक formal sense में इस group of insects के लिए किया जाता है।",
+        "reference": "कीटविज्ञानियों द्वारा बग शब्द का उपयोग कीटों के इस समूह के लिए एक औपचारिक तौर पर किया जाता है।"
+    },
+    {
+        "sentenceId": "1890",
+        "codeSwitchedSentence": "अधिकांश modern research telescopes दूरदराज के क्षेत्रों में favorable atmospheric conditions के साथ enormous facilities हैं।",
+        "reference": "अधिकांश आधुनिक अनुसंधान दूरबीनों में अनुकूल वायुमंडलीय परिस्थितियों के साथ दूरदराज के क्षेत्रों में काम करने के लिए बहुत सुविधाएँ हैं."
+    },
+    {
+        "sentenceId": "1765",
+        "codeSwitchedSentence": "1537 में Asunción की स्थापना के बाद से, Paraguay अपने स्वदेशी चरित्र और identity को बनाए रखने में कामयाब रहा है।",
+        "reference": "1537 में असूनचिओन की स्थापना के बाद से, पैराग्वे अपने स्वदेशी चरित्र और पहचान को बनाए रखने में कामयाब रहा है।"
+    },
+    {
+        "sentenceId": "1798",
+        "codeSwitchedSentence": "इसके शुरुआती दिनों में, the show को केवल लंबे समय तक चलने वाली internet radio site TogiNet Radio, a site focused on talk radio, पर feature किया गया था.",
+        "reference": "इसके शुरुआती दिनों में, इस शो को केवल लंबे समय तक चलने वाली इंटरनेट रेडियो साइट TogiNet रेडियो, टॉक रेडियो पर केंद्रित एक साइट पर फ़ीचर किया गया था."
+    },
+    {
+        "sentenceId": "1724",
+        "codeSwitchedSentence": "इसकी renown एक उपरिकेंद्र होने के लिए luxury का लगभग 400 A.D से शुरू हुआ और लगभग 1100 A.D तक चला।",
+        "reference": "विलासिता के एक उपरिकेंद्र होने के लिए इसको लगभग 400 A.D से  1100 A.D तक जाना गया।"
+    },
+    {
+        "sentenceId": "1694",
+        "codeSwitchedSentence": "बच्चों को कई वजहों से Foster Care में रखा जाता है, जिनमें neglect, abuse, और यहां तक कि extortion करना भी शामिल है।",
+        "reference": "बच्चों को कई वजहों से फ़ॉस्टर केयर में रखा जाता है, जिनमें अनदेखी करना, बुरा बर्ताव करना, और यहां तक कि ज़बरदस्ती वसूली करना भी शामिल है."
+    },
+    {
+        "sentenceId": "1975",
+        "codeSwitchedSentence": "Vatican City की population लगभग 800 है. यह world का सबसे कम population वाला सबसे छोटा independent nation है.",
+        "reference": "वेटिकन सिटी की जनसंख्या लगभग 800 है. यह विश्व का सबसे कम जनसंख्या वाला सबसे छोटा स्वतंत्र राष्ट्र है."
+    },
+    {
+        "sentenceId": "1684",
+        "codeSwitchedSentence": "आपिया Samoa की capital है। यह town उपोलू island पर है और इसकी population 40,000 से भी कम है।",
+        "reference": "आपिया समोआ की राजधानी है। यह शहर उपोलू द्वीप पर है और इसकी आबादी 40,000 से भी कम है।"
+    },
+    {
+        "sentenceId": "1829",
+        "codeSwitchedSentence": "ज़्यादा टैक्स वाले देशों में जाने वाले travellers कभी-कभी खास तौर पर मादक पेय और tobacco जैसे products पर काफी बचत कर सकते हैं।",
+        "reference": "ज़्यादा टैक्स वाले देशों में रहने वाले पर्यटक कभी-कभी खास तौर पर मादक पेय और तम्बाकू जैसे उत्पादों पर काफ़ी बचत कर सकते हैं."
+    },
+    {
+        "sentenceId": "1762",
+        "codeSwitchedSentence": "यह disease सूअरों के द्वारा carried होती है, जो बाद में मच्छरों के through humans में migrate करती है।",
+        "reference": "यह बीमारी सूअरों के कारण होती है, जो बाद में मच्छरों के माध्यम से मनुष्यों में आती है।"
+    },
+    {
+        "sentenceId": "1759",
+        "codeSwitchedSentence": "29 वर्षीय Dr. Malar Balasubramanian Blue Ash, Ohio, के एक suburb में approximately 15 miles north of Cincinnati, road के किनारे जमीन पर lying पाए गए, wearing a T-shirt and underwear in a heavily medicated state.",
+        "reference": "29 वर्षीय डॉ. मलार बालासुब्रमण्यम सिनसिनाटी के उत्तर में लगभग 15 मील की दूरी पर एक उपनगर ब्लू ऐश, ओहियो में मिले, जो एक टी-शर्ट और अंडरवियर में सड़क के किनारे बहुत अधिक नशे की हालत में जमीन पर पड़े थे।"
+    },
+    {
+        "sentenceId": "1957",
+        "codeSwitchedSentence": "उन्होंने rumors को \"political chatter और मूर्खतापूर्ण\" कहा.",
+        "reference": "उन्होंने अफवाहों को “राजनीतिक बकवास और मूर्खतापूर्ण” कहा."
+    },
+    {
+        "sentenceId": "1959",
+        "codeSwitchedSentence": "Still, authorities से advice लें, सभी signs का पालन करें और safety warnings पर पूरा ध्यान दें.",
+        "reference": "अभी भी प्राधिकारियों से सलाह लें, सभी संकेतों का पालन करें और सुरक्षा चेतावनियों पर पूरा ध्यान दें."
+    },
+    {
+        "sentenceId": "1721",
+        "codeSwitchedSentence": "After the dam was built in 1963, मौसमी floods जो पूरे नदी में sediment फैला देगी वह रुक गई थी.",
+        "reference": "1963 में बाँध बनने के बाद, मौसमी बाढ़ जो पूरे नदी में तलछट फैला देगी वह रुक गई थी."
+    },
+    {
+        "sentenceId": "1796",
+        "codeSwitchedSentence": "यह sediment रेत की sandbars और तटों को बनाने के लिए ज़रूरी था, जो wildlife habitats के रूप में काम करते थे।",
+        "reference": "वाइल्डलाइफ़ हैबिटेंट्स के रूप में काम करने वाली रेती और तटों को बनाने के लिए गाद ज़रूरी थी."
+    },
+    {
+        "sentenceId": "1755",
+        "codeSwitchedSentence": "एक bomb governor general के कार्यालय के बाहर फटा था।",
+        "reference": "एक बम गवर्नर जनरल के कार्यालय के बाहर फटा था."
+    },
+    {
+        "sentenceId": "1807",
+        "codeSwitchedSentence": "Italian भी रोज़ाना इस्तेमाल होने वाली भाषा है जिसे राज्य में काम करने वाले अधिकांश लोग उपयोग में लाते हैं, while Latin का ceremonies में इस्तेमाल किया जाता है.",
+        "reference": "इटैलियन भी रोज़ाना इस्तेमाल होने वाली भाषा है जिसे राज्य में काम करने वाले अधिकांश लोग उपयोग में लाते हैं, जबकि लेटिन का धार्मिक रस्मों में इस्तेमाल किया जाता है."
+    },
+    {
+        "sentenceId": "1793",
+        "codeSwitchedSentence": "यदि आप country roads पर driving में accustomed नहीं हैं, तो अपने साथ यह जानकारी रखें : steep grades, narrow lanes और sharp curves प्रमुख हैं।",
+        "reference": "यदि आपको देश की सड़कों पर वाहन चलाने की आदत नहीं है, तो अपने साथ यह जानकारी रखें : स्टीप ग्रेड्‍स, पतली गलियाँ और ख़तरनाक मोड़."
+    },
+    {
+        "sentenceId": "1958",
+        "codeSwitchedSentence": "The शहर बाकी शहरों से अलग है because it एक African शहर की बजाय एक अरब शहर लगता है.",
+        "reference": "यह शहर देश के बाकी शहरों से अलग है क्योंकि यह किसी अफ्रीकी शहर की बजाय अरब शहर लगता है."
+    },
+    {
+        "sentenceId": "1737",
+        "codeSwitchedSentence": "Lions सबसे बड़ी social cats होती हैं, जो बड़े समूहों में रहती हैं जिन्हें prides कहा जाता है।",
+        "reference": "शेर प्राइड नामक बड़े समूहों में रहने वाली सबसे बड़ी सामाजिक बिल्लियाँ हैं."
+    },
+    {
+        "sentenceId": "1918",
+        "codeSwitchedSentence": "सुंदरबन को यूनेस्को द्वारा World Heritage Site घोषित किया गया है। जंगल का वह हिस्सा जो Indian territory के अंदर है, उसे Sundarbans National Park कहा जाता है।",
+        "reference": "सुंदरबन को यूनेस्को द्वारा विश्व धरोहर घोषित किया है। जंगल का वह हिस्सा जो भारत में है उसको सुंदरबन नेशनल पार्क कहा जाता है।"
+    },
+    {
+        "sentenceId": "1820",
+        "codeSwitchedSentence": "लोग अब computer screens पर संदेश लिखते हैं, sharpener का उपयोग करने की आवश्यकता नहीं पड़ती।",
+        "reference": "लोग अब कंप्यूटर स्क्रीन पर संदेश लिखते हैं, शार्पनर का उपयोग करने की आवश्यकता नहीं पड़ती।"
+    },
+    {
+        "sentenceId": "1983",
+        "codeSwitchedSentence": "सभ्यता word civilization लैटिन civilis से आता है, जिसका मतलब है civil, जो लैटिन civis से related है, जिसका मतलब है citizen, और civitas, जिसका मतलब है city या city-state, और यह किसी तरह society के size को भी define करता है।",
+        "reference": "सभ्यता शब्द लैटिन सिविलिस से आया है, जिसका अर्थ है नागरिक, लैटिन सिविस से संबंधित है, जिसका अर्थ है नागरिक, और सिवितास, जिसका अर्थ है शहर या शहर-राज्य, और वह एक तरह से समाज के आकार को भी परिभाषित करता है।"
+    },
+    {
+        "sentenceId": "1953",
+        "codeSwitchedSentence": "बाद में उन्हें Cambridge में Addenbrooke's Hospital में स्थानांतरित कर दिया गया।",
+        "reference": "बाद में उन्हें कैम्ब्रिज में एडेनब्रुक के अस्पताल में स्थानांतरित कर दिया गया."
+    },
+    {
+        "sentenceId": "1917",
+        "codeSwitchedSentence": "रोम में अलग-अलग जगहों पर कई बड़े टेलीविज़न स्क्रीन लगाए गए ताकि लोग ceremony देख सकें और लोगों को let to watch the ceremony का मौका मिले।",
+        "reference": "रोम में अलग-अलग जगहों पर कई बड़े टेलीविज़न स्क्रीन लगाए गए ताकि लोग समारोह देख सकें."
+    },
+    {
+        "sentenceId": "1945",
+        "codeSwitchedSentence": "Casablanca Morocco में खरीदारी करने के लिए least interesting places में से एक है.",
+        "reference": "कैसाब्लांका मोरक्को में खरीदारी करने के लिए सबसे कम दिलचस्प स्थानों में से एक है."
+    },
+    {
+        "sentenceId": "1768",
+        "codeSwitchedSentence": "Most of the buildings on the edges of the परिसर have been rebuilt ताकि tourists को बेहतर idea हो सके कि वे मूल रूप में कैसी दिखाई देती थी.",
+        "reference": "परिसर के किनारे ज़्यादातर इमारतें फिर से बनाई गई हैं ताकि पर्यटकों को बेहतर ढंग से पता चल सके कि वे मूल रूप में कैसी दिखाई देती थी."
+    },
+    {
+        "sentenceId": "1742",
+        "codeSwitchedSentence": "Hong Kong Island Hong Kong के क्षेत्र को उसका नाम देता है और यह वह स्थान है जिसे कई पर्यटक main focus मानते हैं।",
+        "reference": "हांगकांग द्वीप हांगकांग के क्षेत्र को उसका नाम देता है और यह वह स्थान है जिसे कई पर्यटक मुख्य केंद्र बिंदु मानते हैं।"
+    },
+    {
+        "sentenceId": "1678",
+        "codeSwitchedSentence": "Oliver Sacks ने अपने paper The President's Speech में indicate किया कि कैसे लोग जो speech को brain damage के कारण समझ नहीं पाते हैं फिर भी वे sincerity का सही assessment कर पाते हैं.",
+        "reference": "ओलिवर सैक्स ने अपने पेपर द प्रेसिडेंट स्पीच में संकेत दिया कि कैसे जो लोग दिमागी नुकसान के कारण भाषण को समझ नहीं पाते हैं फिर भी वे ईमानदारी का सही आकलन कर पाते हैं."
+    },
+    {
+        "sentenceId": "1944",
+        "codeSwitchedSentence": "ये कभी-कभी family भीड़भाड़ वाले समुद्रतट हैं जहाँ किनारों पर कई shops की एक अच्छी श्रृंखला है। तैरना safe है।",
+        "reference": "ये कभी-कभी पारिवारिक भीड़भाड़ वाले समुद्रतट हैं जहाँ किनारों पर कई दुकानों की एक अच्छी श्रृंखला है। तैरना सुरक्षित है।"
+    },
+    {
+        "sentenceId": "1887",
+        "codeSwitchedSentence": "जब वह hospital में काम कर रहे थे, Liggins ने अपने खाली time के दौरान समय से पहले प्रसव की जाँच शुरू कर दी।",
+        "reference": "अस्पताल में काम करते हुए, लिगिन्स ने अपने खाली समय के दौरान समय से पहले प्रसव की जाँच शुरू कर दी."
+    },
+    {
+        "sentenceId": "1909",
+        "codeSwitchedSentence": "Virtual teams को भी परंपरागत teams की तरह ही standards of excellence के समान मानकों पर रखा जाता है, लेकिन उनमें subtle differences होते हैं।",
+        "reference": "वर्चुअल टीमों को भी परंपरागत टीमों की तरह ही उत्कृष्टता के समान मानकों पर रखा जाता है, लेकिन उनमें बारीक अंतर होते हैं."
+    },
+    {
+        "sentenceId": "1666",
+        "codeSwitchedSentence": "आप अपनी सरकार के अलावा other देशों की advice ले सकते हैं, लेकिन उनकी advice उनके citizens को ध्यान में रखकर दी जाती है.",
+        "reference": "अपनी सरकार के अलावा आप अन्य देशों की सरकारों की सलाह ले सकते हैं. हालाँकि, उनकी सलाह उनके नागरिकों को ध्यान में रखकर दी जाती हैं."
+    },
+    {
+        "sentenceId": "1915",
+        "codeSwitchedSentence": "You can गोमा के आस-पास घूमने के लिए boda-boda (motorcycle taxi) ले सकते हैं. छोटी सैर के लिए normal (local) price करीब 500 Congolese Francs लगता है.",
+        "reference": "आप गोमा के आस-पास घूमने के लिए बोडा-बोडा (मोटरसाइकिल टैक्सी) ले सकते हैं. छोटी सैर के लिए आम तौर पर (स्थानीय) किराया करीब 500 कांगोलीज़ फ़्रैंक लगता है."
+    },
+    {
+        "sentenceId": "1976",
+        "codeSwitchedSentence": "Middle order batsmen, सचिन तेंदुलकर और राहुल द्रविड़ ने अच्छा प्रदर्शन किया और शतकीय partnership बनाई।",
+        "reference": "मध्य क्रम के बल्लेबाज सचिन तेंदुलकर और राहुल द्रविड़ ने अच्छा प्रदर्शन किया और शतकीय साझेदारी बनाई."
+    }
+]

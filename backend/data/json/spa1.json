@@ -1,0 +1,252 @@
+[
+    {
+        "sentenceId": "1960",
+        "codeSwitchedSentence": "Según los reports, estaba en sus veintes. Bieber manifestó en un statement: «[aunque] no estuve presente ni directly involucrado en este trágico accidente, mis thoughts y prayers están con los familiares de la víctima».",
+        "reference": "De acuerdo a los informes, estaba en sus veintes. Bieber manifestó en un comunicado: «[si bien] no estuve presente ni directamente involucrado en este terrible accidente, mis pensamientos y plegarias están con los familiares de la víctima»."
+    },
+    {
+        "sentenceId": "1901",
+        "codeSwitchedSentence": "Aunque la inteligencia artificial tiene una fuerte connotación de science fiction, forma una especialidad muy importante dentro de la computer science, que se encarga del behavior, learning y la adaptación inteligente en una machine.",
+        "reference": "Si bien se asocia mucho la inteligencia artificial con la ciencia ficción, es una especialidad de gran relevancia dentro de la informática, que se encarga del comportamiento, el aprendizaje y la adaptación inteligente en una máquina."
+    },
+    {
+        "sentenceId": "1916",
+        "codeSwitchedSentence": "Muchos de los baked goods alemanes que se preparan al horno tienen también almonds, hazelnuts y otros tree nuts. En general, los cakes populares hacen una excelente combinación con una taza de strong coffee.",
+        "reference": "Muchos de los productos alemanes que se preparan al horno tienen también almendras, avellanas y otros frutos secos. En general, los pasteles populares hacen una excelente combinación con una taza de café fuerte."
+    },
+    {
+        "sentenceId": "1688",
+        "codeSwitchedSentence": "La función de la marina ha traditionally been garantizar que your país conserve the ability to move your people and goods, a la vez que interfiere con la capacidad del enemigo para hacer lo propio.",
+        "reference": "Desde siempre, la función de la marina ha sido garantizar que su país conserve la facultad de trasladar a su población y mercancías, a la vez que, interfiere con la capacidad del enemigo para hacer lo propio."
+    },
+    {
+        "sentenceId": "1801",
+        "codeSwitchedSentence": "Se ha comparado el despliegue de buildings que hacen el Hong Kong skyline con a gráfico de barras luminoso que is made apparent by the presence de las aguas del Victoria Harbour.",
+        "reference": "Se ha comparado el despliegue de edificaciones que delimitan el horizonte de Hong Kong con un gráfico de barras luminoso que se evidencia por la presencia de las aguas del Puerto Victoria."
+    },
+    {
+        "sentenceId": "1961",
+        "codeSwitchedSentence": "Uno de los métodos más comúnmente used para ilustrar la importancia de la socialización es draw upon the few unfortunate casos de children who fueron, por negligencia, desgracia o abuso intencional, not socializados by adults while they were growing up.",
+        "reference": "Uno de los mecanismos más comúnmente usados para graficar la importancia de sociabilizar es analizar los pocos y lamentables casos de niños que, por negligencia, desgracia o abuso intencional, no fueron socializados por adultos durante su crecimiento."
+    },
+    {
+        "sentenceId": "1888",
+        "codeSwitchedSentence": "El impacto de volver a casa comes sooner than el cultural (there's menos de una phase de «luna de miel»), lasts más tiempo y can be más severe.",
+        "reference": "El impacto de volver a casa se produce antes que el cultural (no existe un período de felicidad de «luna de miel»), tarda más en irse y puede ser más duro."
+    },
+    {
+        "sentenceId": "1712",
+        "codeSwitchedSentence": "Desde 1966 los Sundarbans han sido un wildlife sanctuary, y se calcula que en la actualidad existen en el área 400 Royal Bengal tigres y unos 30,000 ciervos moteados.",
+        "reference": "Los Sundarbans han sido, desde 1966, un templo de la vida silvestre y se calcula que en la actualidad existen en el área 400 tigres reales de Bengala y unos 30 000 ciervos moteados."
+    },
+    {
+        "sentenceId": "1854",
+        "codeSwitchedSentence": "Retiraron el vehículo del scene of the accident alrededor de las 1200 GMT del mismo day.",
+        "reference": "Retiraron el vehículo del lugar del siniestro alrededor de las 12:00 GMT del mismo día."
+    },
+    {
+        "sentenceId": "1933",
+        "codeSwitchedSentence": "Finalmente, existen muchos felinos pequeños (que incluyen a los loose pet cats) que se alimentan de especies de poco tamaño que existen en mucha más cantidad, como insectos, roedores, lagartijas y aves.",
+        "reference": "Finalmente, existen muchos felinos pequeños (que incluyen a los gatos domésticos independientes) que se alimentan de especies de poco tamaño que existen en mucha más cantidad, como insectos, roedores, lagartijas y aves."
+    },
+    {
+        "sentenceId": "1967",
+        "codeSwitchedSentence": "Layton había solicitado cambios en la ley environmental de los conservadores durante la reunión con el primer ministro, apelando a una `` thorough y completa modificación de su redacción''.",
+        "reference": "Durante la reunión llevada a cabo con el primer ministro, Layton había solicitado que se introdujeran cambios en la ley ambiental de los conservadores, apelando a una «modificación exhaustiva y completa de su redacción»."
+    },
+    {
+        "sentenceId": "2005",
+        "codeSwitchedSentence": "But hay un lot de cosas about las birds que still las hacen look like a dinosaur.",
+        "reference": "Sin embargo, hay muchas características en las aves que todavía las asemejan a los dinosaurios."
+    },
+    {
+        "sentenceId": "1736",
+        "codeSwitchedSentence": "Rolando Mendoza abrió fire con su M16 contra los turistas.",
+        "reference": "Rolando Mendoza abrió fuego con su M16 contra los visitantes extranjeros."
+    },
+    {
+        "sentenceId": "1812",
+        "codeSwitchedSentence": "Aún cuando existe una experimental vaccine que pareciera ser capaz de disminuir la mortalidad causada por Ebola, al día de hoy no se ha demostrado a ciencia cierta que algún fármaco sea adecuado para tratar la infection existente.",
+        "reference": "Al día de hoy no se ha demostrado a ciencia cierta que algún fármaco sea adecuado para tratar la infección existente causada por ébola, aun cuando existe una vacuna experimental que pareciera ser capaz de disminuir la mortalidad causada por esa enfermedad."
+    },
+    {
+        "sentenceId": "1934",
+        "codeSwitchedSentence": "Generalmente, usted siempre podrá oír el sound de tourists y vendors en todo momento. La story del sound y la light se asemeja a un story book.",
+        "reference": "Generalmente, usted podrá oír el sonido de turistas y vendedores en todo momento. La historia del sonido y la luz se asemeja a un libro de cuentos."
+    },
+    {
+        "sentenceId": "2003",
+        "codeSwitchedSentence": "La forma de disfrutar las mejores vistas de Hong Kong es salir de la isla y dirigirse al Kowloon waterfront, ubicada en frente.",
+        "reference": "La forma de disfrutar las mejores vistas de Hong Kong es salir de la isla y dirigirse a la ribera de Kowloon, ubicada en frente."
+    },
+    {
+        "sentenceId": "1862",
+        "codeSwitchedSentence": "NextGen es un sistema que, según afirma la FAA, permitiría a las aeronaves volar rutas más cortas y ahorrar millones de galones de combustible por año, así como reducir las carbon emissions.",
+        "reference": "NextGen es un sistema que, según afirma la Administración Federal de Aviación, reduciría las distancias de las rutas aéreas, lo cual ahorraría millones de galones de combustible por año, así como las emisiones de carbono."
+    },
+    {
+        "sentenceId": "1775",
+        "codeSwitchedSentence": "A través de la grabación de videos, se han producido importantes descubrimientos en la interpretación de micro-expresiones, que son movimientos en el rostro de tan solo unos milliseconds de duración.",
+        "reference": "A través de la grabación de videos, se han producido importantes hallazgos en la interpretación de micorexpresiones, que son movimientos en el rostro de tan solo unos milisegundos de duración."
+    },
+    {
+        "sentenceId": "1963",
+        "codeSwitchedSentence": "Ironing la ropa húmeda puede ayudar a que se seque. Muchos hoteles tienen una iron y una ironing board disponibles para loan, incluso si uno no está en la habitación.",
+        "reference": "Planchar la ropa cuando aún está húmeda puede ayudar a secarla. Muchos hoteles cuentan con plancha y una tabla para prestar a los viajeros, incluso si uno no se encuentra en la habitación."
+    },
+    {
+        "sentenceId": "1766",
+        "codeSwitchedSentence": "Los núcleos de algunos átomos son inestables, which means that tienden a break apart with little or no nudging.",
+        "reference": "Los núcleos de algunos átomos son inestables, es decir que tienden a descomponerse con un mínimo o casi ningún empujón."
+    },
+    {
+        "sentenceId": "1897",
+        "codeSwitchedSentence": "En el norte la región limita con el Sahel, y en el sur y al oeste con el Océano Atlántico.",
+        "reference": "La región limita con el Sahel al norte, y con el Océano Atlántico al sur y al oeste."
+    },
+    {
+        "sentenceId": "1668",
+        "codeSwitchedSentence": "También puede ser beneficial comprar una Wild Card, which provides entry to selecciones de parques in Sudáfrica o a todos los Parques Nacionales del país.",
+        "reference": "También puede ser conveniente comprar una Wild Card que permite la entrada a selecciones de parques en Sudáfrica o a todos los Parques Nacionales del país."
+    },
+    {
+        "sentenceId": "1706",
+        "codeSwitchedSentence": "Las iglesias más tradicionales suelen ofrecer una Easter Vigil el día sábado en la noche durante el weekend de la Pascua y, por lo general, las congregations dan inicio a las celebraciones por la resurrección de Cristo apenas llega la medianoche.",
+        "reference": "Las iglesias más tradicionales suelen ofrecer una Vigilia Pascual el día sábado en la noche durante el fin de semana de la Pascua y, por lo general, las congregaciones dan inicio a las celebraciones por la resurrección de Cristo apenas llega la medianoche."
+    },
+    {
+        "sentenceId": "1806",
+        "codeSwitchedSentence": "As la contaminación lumínica en su auge no era el tipo de problem que es today, es frecuente encontrarlos ubicados in cities o at campuses, siendo de más fácil accesso que those que se construyen en los tiempos modernos.",
+        "reference": "Dado que, en su auge, la contaminación lumínica no era un problema de gran magnitud como lo es hoy, es frecuente encontrarlos en ciudades o en campus, siendo de más fácil acceso que aquellos que se construyen en los tiempos modernos."
+    },
+    {
+        "sentenceId": "1675",
+        "codeSwitchedSentence": "Todos los nouns, así como el vocablo Sie para significar 'usted', llevan siempre su letra inicial en capital letter, aunque estén ubicados en el medio de la oración.",
+        "reference": "Todos los sustantivos, así como el vocablo Sie para significar 'usted', llevan siempre su letra inicial mayúscula, aunque estén ubicados en el medio de la oración."
+    },
+    {
+        "sentenceId": "2001",
+        "codeSwitchedSentence": "Se recomienda strongly a los viajeros que se informen sobre cualquier risk de clima extremo en el área que visitan, dado que ello puede afectar sus travel plans.",
+        "reference": "Se recomienda enfáticamente a los viajeros que se informen sobre cualquier riesgo de clima extremo en el área que visitan, dado que ello puede afectar sus planes de viaje."
+    },
+    {
+        "sentenceId": "1815",
+        "codeSwitchedSentence": "La bomba de fisión opera en base al principio de que se requiere energía para conformar un nucleus con gran cantidad de protons y neutrons.",
+        "reference": "La bomba atómica opera en base al principio de que se requiere energía para conformar un núcleo con gran cantidad de protones y neutrones."
+    },
+    {
+        "sentenceId": "1951",
+        "codeSwitchedSentence": "En 2002, la lava del volcán Nyiragongo destroyed Goma y dejó gran parte de sus calles sumergidas, especialmente en el centro de la ciudad.",
+        "reference": "En 2002, la lava del volcán Nyiragongo destruyó Goma y dejó gran parte de sus calles sumergidas, especialmente en el centro de la ciudad."
+    },
+    {
+        "sentenceId": "1754",
+        "codeSwitchedSentence": "Es posible que haya más maria en el lado cercano debido a que su crust es más delgada, lo que facilitó a la lava ascender a la superficie.",
+        "reference": "Es posible que haya más mares en el lado cercano debido a que su corteza es más delgada, lo que facilitó a la lava ascender a la superficie."
+    },
+    {
+        "sentenceId": "1816",
+        "codeSwitchedSentence": "Duvall, que está casado y tiene dos hijos adults, no causó una buena impression a Miller, que fue a quien le relató la historia.",
+        "reference": "Duvall, que está casado y tiene dos hijos adultos, no causó una buena impresión a Miller, que fue a quien le relató la historia."
+    },
+    {
+        "sentenceId": "1925",
+        "codeSwitchedSentence": "Si bien se trató de un trabajo eminentemente theoretical, el program se redactó con la finalidad de simular las observations realizadas a la Sagittarius galaxy.",
+        "reference": "Si bien se trató de un trabajo eminentemente teórico, el programa se redactó con la finalidad de simular las observaciones realizadas a la galaxia de Sagitario."
+    },
+    {
+        "sentenceId": "1831",
+        "codeSwitchedSentence": "El Parque Nacional de los Plitvice Lakes es muy boscoso, tiene principalmente beech, spruce y fir, y presenta una vegetación entre Alpine y mediterránea.",
+        "reference": "El Parque Nacional de los Lagos Plitvice es muy boscoso, tiene principalmente hayas, abetos y píceas, y presenta una vegetación entre alpina y mediterránea."
+    },
+    {
+        "sentenceId": "1880",
+        "codeSwitchedSentence": "Por ello, Thus, cuando se inventó, el lápiz ganó muchos amigos cuando salió out.",
+        "reference": "Por ello, cuando se inventó, el lápiz ganó muchos amigos."
+    },
+    {
+        "sentenceId": "1792",
+        "codeSwitchedSentence": "Esto se denomina pH de una chemical. Usted puede elaborar un indicator de pH utilizando jugo de red cabbage.",
+        "reference": "Esto se denomina pH de una sustancia química. Usted puede elaborar un indicador de pH utilizando jugo de col roja."
+    },
+    {
+        "sentenceId": "1853",
+        "codeSwitchedSentence": "Giancarlo Fisichella perdió el control del vehículo y terminó la race poco después de iniciarse.",
+        "reference": "Giancarlo Fisichella no logró mantener el control del vehículo y abandonó la carrera poco después de inciarse."
+    },
+    {
+        "sentenceId": "1900",
+        "codeSwitchedSentence": "En efecto, es muy difícil de encontrar, incluso si uno estuviera seguro de su existencia. Una vez dentro de la cueva, el aislamiento es total isolation.",
+        "reference": "En efecto, es muy difícil de encontrar, incluso si uno estuviera seguro de su existencia. En el interior de la cueva, el aislamiento es total."
+    },
+    {
+        "sentenceId": "1727",
+        "codeSwitchedSentence": "Es posible que los niños ferales hayan sufrido situaciones de child abuse o trauma grave antes de ser abandonados o de que huyeran.",
+        "reference": "Es posible que los niños salvajes hayan sufrido situaciones traumáticas o abuso infantil grave antes de ser abandonados o de que huyeran."
+    },
+    {
+        "sentenceId": "1969",
+        "codeSwitchedSentence": "Indica que the posición más efectiva for el objeto central is at the intersection de las lines horizontales y verticales que dividen la imagen en tercios (see ejemplo).",
+        "reference": "Indica que la posición más efectiva donde colocar el objeto central es la intersección que se forma entre las líneas horizontales y verticales que dividen la imagen en tercios (ver ejemplo)."
+    },
+    {
+        "sentenceId": "1940",
+        "codeSwitchedSentence": "En definitiva, no debería causarnos sorpresa si nuestros propios ancestros resolvían sus «problemas de protein» del mismo modo que los chimps de la sabana en la actualidad.",
+        "reference": "En definitiva, no debería causarnos sorpresa si nuestros propios predecesores resolvían sus «problemas proteicos» del mismo modo que los chimpancés de la sabana en la actualidad."
+    },
+    {
+        "sentenceId": "1930",
+        "codeSwitchedSentence": "Los seis rehenes, incluyendo los niños y ancianos, así como los fotógrafos filipinos, fueron released temprano.",
+        "reference": "Tanto los seis rehenes, entre los que había niños y ancianos, como los fotógrafos filipinos, fueron puestos en libertad temprano."
+    },
+    {
+        "sentenceId": "1883",
+        "codeSwitchedSentence": "La clearance vertical debajo del puente es de 15 metros. La construcción fue completada en agosto de 2011, pero no se abrió para el tráfico hasta marzo de 2017.",
+        "reference": "Debajo del puente hay un espacio libre de 15 metros y, si bien su construcción fue terminada en agosto de 2011, no se habilitó para el tránsito sino hasta marzo de 2017."
+    },
+    {
+        "sentenceId": "1789",
+        "codeSwitchedSentence": "The otras nominaciones incluyen Best Picture, Best Director, Cinematography, Mejor diseño de vestuario, Mejor edición de Film-editing, Best Score original, Best Production Design, Mejor edición de Sound, Sound Mixing y Best Screenplay original.",
+        "reference": "Entre las demás nominaciones se encuentran Mejor película, Mejor director, Mejor cinematografía, Mejor diseño de vestuario, Mejor edición de películas, Mejor partitura original, Mejor diseño de producción, Mejor edición de sonido, Mejor mezcla de sonido y Mejor guion original."
+    },
+    {
+        "sentenceId": "1954",
+        "codeSwitchedSentence": "Su defensa disciplinada, sus habilidades de ball handling y el excelente teamwork los llevaron a destacarse y quedó claro que este era el equipo a beat.",
+        "reference": "Su defensa disciplinada, sus habilidades de manejo del balón y el excelente trabajo en equipo los llevaron a destacarse y quedó claro que este era el equipo a derrotar."
+    },
+    {
+        "sentenceId": "1847",
+        "codeSwitchedSentence": "Le dio la bienvenida el vice primer ministro de Singapore, Wong Kan Seng, y discutió asuntos de trade y terrorism con el jefe de estado de Singapore, Lee Hsien Loong.",
+        "reference": "Le dio la bienvenida el vice primer ministro de Singapur, Wong Kan Seng, y debatió asuntos comerciales y de terrorismo con jefe de estado, Lee Hsien Loong."
+    },
+    {
+        "sentenceId": "1702",
+        "codeSwitchedSentence": "En apenas dos semanas, las fuerzas norteamericanas y las de la Free French habían logrado la liberación del sur de France y seguían rumbo a Germany.",
+        "reference": "En apenas dos semanas, las fuerzas norteamericanas y las de la Francia Libre habían logrado la liberación del sur de Francia y seguían rumbo a Alemania."
+    },
+    {
+        "sentenceId": "1908",
+        "codeSwitchedSentence": "Es un método importante para diferenciar entre ciertos verbs y objetos.",
+        "reference": "Es un método clave para diferenciar entre ciertos verbos y objetos."
+    },
+    {
+        "sentenceId": "1660",
+        "codeSwitchedSentence": "El romanticismo tenía un gran elemento de determinismo cultural, basado en escritores como Goethe, Fichte y Schlegel.",
+        "reference": "El elemento del determinismo cultural se encontraba muy presente en el romanticismo, según estudiosos como Goether, Fichte y Schlegel."
+    },
+    {
+        "sentenceId": "1709",
+        "codeSwitchedSentence": "El Report es sumamente crítico con prácticamente cada aspecto de la política vigente del Executive en Irak, y apela a un cambio inmediato de dirección.",
+        "reference": "El informe es sumamente crítico con prácticamente cada aspecto de la política vigente del poder ejecutivo en Irak, y apela a un cambio inmediato de dirección."
+    },
+    {
+        "sentenceId": "1729",
+        "codeSwitchedSentence": "Por ejemplo, each año los students de la escuela Bennet in Carolina del Norte design a website about their trip to the Capital del Estado y cada year the website gets remodeled, but las versiones previas se conservan online as a scrapbook.",
+        "reference": "Por ejemplo, todos los años, los alumnos de la escuela Bennet en Carolina del Norte diseñan una página web acerca de su viaje a la capital del Estado y cada año la página se actualiza, pero se conservan en línea las versiones previas que en la forma de álbum de recuerdos."
+    },
+    {
+        "sentenceId": "1923",
+        "codeSwitchedSentence": "Aunque la estrategia, que involved el corte de suministros militares y civiles vitales, fue efectiva, dicha blockade violó el derecho internacional generalmente accepted y codificado en varios international agreements de los dos últimos siglos.",
+        "reference": "Si bien la estrategia, que involucró la interrupción de suministros militares y civiles vitales, fue exitosa, dicha medida violó el derecho internacional generalizadamente reconocido y contemplado en varios acuerdos internacionales de los dos últimos siglos."
+    }
+]

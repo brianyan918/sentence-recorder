@@ -1,0 +1,252 @@
+[
+    {
+        "sentenceId": "1825",
+        "codeSwitchedSentence": "action과 가까이하려면 일찍 들어가야 music과 가까운 곳에 camping장을 구할 수 있다.",
+        "reference": "즐거움과 활기를 가까이하려면 일찍 들어가야 음악과 가까운 곳에 캠핑장을 구할 수 있다."
+    },
+    {
+        "sentenceId": "1667",
+        "codeSwitchedSentence": "일반적으로 두 가지 behaviors는 managers가 이전 동료를 lead하기 시작하면서 나타날 수 있습니다. 스펙트럼의 한쪽 끝에서는 \"one of the guys\"로 남으려고 노력합니다.",
+        "reference": "\"일반적으로 두 가지 행동은 관리자가 이전 동료를 이끌기 시작하면서 나타날 수 있습니다. 스페트럼의 한쪽 끝에서 \"\"직원 중 한 사람\"\"으로 남으려고 노력합니다.\""
+    },
+    {
+        "sentenceId": "1844",
+        "codeSwitchedSentence": "달의 surface는 돌과 먼지로 이루어져 있는데, 달의 outer layer는 'the crust'라고 불린다.",
+        "reference": "\"달의 표면은 돌과 먼지로 이루어져 있는데, 달의 바깥층은 '크러스트(the crust)\"\"라고 불린다.\""
+    },
+    {
+        "sentenceId": "1990",
+        "codeSwitchedSentence": "블로그는 학생들의 writing을 개선하는 데에도 도움이 됩니다. 학생들이 종종 sloppy한 grammar와 spelling으로 블로그를 시작하지만, audience의 존재가 일반적으로 그러한 점들을 변화시킵니다.",
+        "reference": "블로그는 학생들의 글쓰기를 개선하는 데에도 도움이 됩니다. 학생들이 종종 부족한 문법과 철자법으로 블로그를 시작하지만, 독자들의 존재가 일반적으로 그러한 점들을 변화시킵니다."
+    },
+    {
+        "sentenceId": "1866",
+        "codeSwitchedSentence": "첫째, 대부분의 기수들은 heel이 있고 밑창이 smooth하고 좁은 riding boots를 신습니다.",
+        "reference": "첫째, 대부분의 기수들은 힐이 있고 밑창이 매끈하고 좁은 승마화를 신습니다."
+    },
+    {
+        "sentenceId": "1708",
+        "codeSwitchedSentence": "Huhne는 사임했고 내각에서 Ed Davey MP에 의해 교체될 예정이다. Norman Lamb MP는 Davey가 vacating하는 사업부 장관직을 맡을 것으로 예산된다.",
+        "reference": "훈는 사임했고 내각에서 에드 데이비 하원 의원에 의해 교체될 예정이다. 노먼 램 하원 의원은 데이비가 떠나는 사업부 장관직을 밭을 것으로 예산된다."
+    },
+    {
+        "sentenceId": "1870",
+        "codeSwitchedSentence": "장면들이 pyramids 위에 displayed되고, different pyramids에는 불이 lit up되었다.",
+        "reference": "장면들이 피라미드들 위에 비쳤고 다른 피라미드들에는 불이 밝혀졌다."
+    },
+    {
+        "sentenceId": "1911",
+        "codeSwitchedSentence": "마찬가지로, Schengen 비자를 소지하면 각 Schengen 회원국에 개별적으로 비자를 apply할 필요가 없으므로 시간, 비용 및 서류 작업이 줄어듭니다.",
+        "reference": "마찬가지로, 솅겐 비자를 소지하면 각 솅겐 회원국에 개별적으로 비자를 신청할 필요가 없으므로 시간, 비용 및 서류 작업이 줄어듭니다."
+    },
+    {
+        "sentenceId": "1912",
+        "codeSwitchedSentence": "좀 더 작은 islands의 대부분은 independent nations이거나 France와 관련이 있고, luxury beach resorts로 알려져 있다.",
+        "reference": "좀 더 작은 섬의 대부분은 독립 국가이거나 프랑스와 관련이 있고, 호화로운 비치 리조트로 알려져 있다."
+    },
+    {
+        "sentenceId": "1698",
+        "codeSwitchedSentence": "우주의 모든 것은 matter로 이루어져 있습니다. All matter는 atoms라고 불리는 작은 입자로 이루어져 있습니다.",
+        "reference": "우주의 모든 것은 물질로 이루어져 있습니다. 모든 물질은 원자라고 불리는 작은 입자로 이루어져 있습니다."
+    },
+    {
+        "sentenceId": "1989",
+        "codeSwitchedSentence": "그는 또한 여러 countries의 지폐를 새기는 일에도 참여했는데, recent하게 캐나다에서 나온 새 $5와 $100 bills 전면에 나온 총리의 초상화가 그의 작품이다.",
+        "reference": "그는 또한 다른 국가들의 지폐를 새기는 일에도 참여했는데, 최근 캐나다에서 나온 새 5달러와 100달러 지폐 전면에 나온 총리의 초상화가 그의 작품이다."
+    },
+    {
+        "sentenceId": "1879",
+        "codeSwitchedSentence": "사람들은 뭔가 새로운 것이 생긴다면, keyboard가 어떻게 변할지 wonder하고 있을 뿐이다.",
+        "reference": "사람들은 뭔가 새로운 것이 생긴다면, 키보드가 어떻게 될 것인지 궁금해하고 있을 뿐이다."
+    },
+    {
+        "sentenceId": "1787",
+        "codeSwitchedSentence": "블로깅은 collaboration을 고취시키고, 학생들이 전통적인 학교생활을 넘어 학습을 잘 extend하도록 장려하는 tool이다.",
+        "reference": "블로깅(blogging)은 협동심을 고취시키고, 학생들이 전통적인 학교생활을 넘어 학습을 잘 확대하도록 장려하는 도구다."
+    },
+    {
+        "sentenceId": "1695",
+        "codeSwitchedSentence": "단순하면서도 특히 여름철에 인기 있는 dinner는 Pa amb Oli: 빵에 olive oil, tomato 그리고 cheese, tunafish 등의 손쉽게 구할 수 있는 condiments를 곁들인 것입니다.",
+        "reference": "단순하면서도 특히 여름철에 인기 있는 저녁식사는 치즈나 참치 등과 같은 손쉽게 구할 수 있는 양념과 토마토, 올리브오일을 곁들인 빵인 파 엠브 올리입니다."
+    },
+    {
+        "sentenceId": "1938",
+        "codeSwitchedSentence": "병원은 다른 사람들의 infection 가능성을 막기 위해 환자를 다른 사람들로부터 separating 하는 것을 포함하여 infection control 규칙을 준수했다.",
+        "reference": "병원은 다른 사람들의 감염 가능성을 막기 위해 환자를 다른 사람들로부터 분리시키는 것을 포함하여 감염 통제 규직을 준수했다."
+    },
+    {
+        "sentenceId": "1826",
+        "codeSwitchedSentence": "사건 발생 이후, Gibson은 병원으로 이송되었으나 얼마 후 숨을 거뒀다.",
+        "reference": "사건 발생 이후, 깁슨(Gibson)은 병원으로 이송되었으나 얼마 후 숨을 거뒀다."
+    },
+    {
+        "sentenceId": "1744",
+        "codeSwitchedSentence": "Rossby number가 작을수록 자기 reversals 면에서 항성의 활동성 역시 작다.",
+        "reference": "로스비 수(Rossby number)가 작을수록 자기 역전 면에서 항성의 활동성 역시 작다."
+    },
+    {
+        "sentenceId": "1861",
+        "codeSwitchedSentence": "결과적으로, 무대에서 performers들이 마리화나 joints를 피우고, theatre 자체에서 관객들에게 참여하도록 encouraging하고 있다.",
+        "reference": "결과적으로 무대에서 공연자들이 마리화나 담배를 피우고 극장 자체에서 관객들에게 참여하도록 독려하고 있다."
+    },
+    {
+        "sentenceId": "1748",
+        "codeSwitchedSentence": "소방 rescue 대원들이 eventually 오후 11시 35분까지 불을 껐다.",
+        "reference": "소방 구조 대원들이 결국 오후 11시 35분까지 불을 껐다."
+    },
+    {
+        "sentenceId": "1926",
+        "codeSwitchedSentence": "심리학을 비롯해 과학에서는 모든 물질에 대한 아리스토텔레스의 견해를 받아들였다.",
+        "reference": "심리학을 비롯해 과학에서는 모든 물질에 대한 아리스토텔레스의 견해를 받아들였다."
+    },
+    {
+        "sentenceId": "1991",
+        "codeSwitchedSentence": "European 역사의 이 시기에 부유하고 강력해진 가톨릭교회는 철저한 조사를 받았습니다.",
+        "reference": "유럽 역사의 이 시기에 부유하고 강력해진 가톨릭교회는 철저한 조사를 받았습니다."
+    },
+    {
+        "sentenceId": "1738",
+        "codeSwitchedSentence": "이 동물은 물에 들어오는 모든 것 역시 공격했으며, T. rex처럼 giant dinosaur도 당해내지 못할 정도였습니다.",
+        "reference": "이 동물은 물에 들어오는 모든 것 역시 공격했으며, 티라노사우르스처럼 거대한 공룡도 당해내지 못할 정도였습니다."
+    },
+    {
+        "sentenceId": "1817",
+        "codeSwitchedSentence": "하지만, Schengen zone은 이런 측면에서 다소 한 나라같이 작용한다.",
+        "reference": "하지만, 솅겐 존(국경 자유 통행 지역: Schengen zone)은 이런 측면에서 다소 한 나라같이 작용한다."
+    },
+    {
+        "sentenceId": "1672",
+        "codeSwitchedSentence": "fabric이 너무 뜨거워지지 않도록 주의하세요 (shrinkage가 생기거나 심할 경우 scorch될 수 있습니다).",
+        "reference": "원단이 너무 뜨거워지지 않도록 주의하세요(원단이 수축하거나 그을릴 수 있습니다)."
+    },
+    {
+        "sentenceId": "1849",
+        "codeSwitchedSentence": "만약 National Treasure라는 영화를 봤다면, 아마 Declaration of Independence의 뒷면에 treasure map이 쓰여졌다고 생각할지도 모른다.",
+        "reference": "만약 내셔널 트레저라는 영화를 봤다면, 아마 독립선언서의 뒷면에 보물지도가 쓰여졌다고 생각할지도 모른다."
+    },
+    {
+        "sentenceId": "1799",
+        "codeSwitchedSentence": "카파네도는 수요일의 이벤트 말고도 Championships에서 두 번의 개별 레이스에 출전했습니다.",
+        "reference": "카파네도(Carpanedo)는 수요일의 이벤트 말고도, 챔피언십에서 두 번의 개별 레이스에 출전했습니다."
+    },
+    {
+        "sentenceId": "1681",
+        "codeSwitchedSentence": "그러나 experimentation은 하나 혹은 그 이상의 hypotheses를 제거하기 위한 experiment이며, 질문을 하고 observations을 하며 scientific research로 이끌어내는 것이다.",
+        "reference": "그러나 실험은 하나 혹은 그 이상의 가설을 제거하는 것이며, 질문을 하고 관찰을 하며 과학적 연구로 이끌어내는 것이다."
+    },
+    {
+        "sentenceId": "1704",
+        "codeSwitchedSentence": "1990년에 desert sands의 위협으로 인해, 팀북투는 위험에 처한 world heritage sites 목록에 추가되었습니다.",
+        "reference": "사막 모래의 영향으로 인해, 1990년 팀북투는 위험에 처한 세계 문화유산 목록에 추가되었습니다."
+    },
+    {
+        "sentenceId": "1845",
+        "codeSwitchedSentence": "왕과 Queen은 마차를 타고 자신들에게 소리를 지르고 threats을 하는 mob에게 둘러싸인 채 Paris로 돌아갔다.",
+        "reference": "왕과 왕비는 마차를 타고 자신들에게 소리를 지르고 위협을 하는 군중들에게 둘러싸인 채 파리로 돌아갔다."
+    },
+    {
+        "sentenceId": "1929",
+        "codeSwitchedSentence": "Del Potro가 2세트에서 먼저 advantage를 가졌지만 6-6이 된 후 다시 타이 브레이크가 필요했다.",
+        "reference": "델 포트로가 2세트에서 먼저 어드밴티지를 얻었지만 6 대 6이 된 후 다시 타이 브레이크가 필요했다."
+    },
+    {
+        "sentenceId": "2007",
+        "codeSwitchedSentence": "미국 U.S. Corps of Engineers는 시간당 6인치의 rainfall이 이전에 파손된 levees를 breach할 수 있다고 추정했다.",
+        "reference": "미국 공병대는 시간당 6인치의 강우량이 기 파손된 제방을 무너뜨릴 수 있다고 추정했다."
+    },
+    {
+        "sentenceId": "1902",
+        "codeSwitchedSentence": "처음에 그는 Great Yarmouth에 있는 제임스 페이젯 병원에 입원했습니다.",
+        "reference": "처음에 그는 그레이트 야머스(Great Yarmouth)에 있는 제임스 페이젯 병원(James Paget)에 입원했습니다."
+    },
+    {
+        "sentenceId": "1683",
+        "codeSwitchedSentence": "-no predicted CSW words-",
+        "reference": "아직도 이곳에서 살아남은 사람이 많이 있습니다. 여기서 살해당하거나 노동에 시달리다 죽은 소중한 이를 둔 사람은 훨씬 많죠. 유대인이든 그렇지 않든 말입니다."
+    },
+    {
+        "sentenceId": "1966",
+        "codeSwitchedSentence": "10월에 시작된 광범위한 반정권 프로테스트에 대한 Martelly의 대응 차원에서 위원회가 마련되었습니다.",
+        "reference": "10월에 시작된 광범위한 반정권 프로테스트에 대한 Martelly의 대응 차원에서 위원회가 마련되었습니다."
+    },
+    {
+        "sentenceId": "1922",
+        "codeSwitchedSentence": "물론 이 전통에 대한 기독교 신학적 설명이 있지만, it may well be a 기독교 이전의 봄과 풍년 ritual일 수 있다.",
+        "reference": "물론 이 전통에 대한 기독교 신학적 설명이 있지만 이것은 기독교 이전의 봄과 풍년 의식일 수 있다."
+    },
+    {
+        "sentenceId": "1722",
+        "codeSwitchedSentence": "53세의 Cuomo는 올해 초부터 임기를 시작했고, 지난달에 동성 marriage 합법화 bill에 서명했다.",
+        "reference": "53세의 쿠오모는 올해 초부터 임기를 시작했고, 지난달에 동성 결혼 합법화 법안에 서명했다."
+    },
+    {
+        "sentenceId": "1767",
+        "codeSwitchedSentence": "하늘이 하루 종일 어두우므로 Aurora borealis를 볼 수 있는 좋은 기회를 제공합니다.",
+        "reference": "하늘이 하루 종일 어두우므로 오로라를 볼 수 있는 좋은 기회를 제공합니다."
+    },
+    {
+        "sentenceId": "1739",
+        "codeSwitchedSentence": "메카 북쪽의 산 중 한 곳의 top에 위치한 이 cave는 세계의 나머지 지역과 완전히 isolated되어 있다.",
+        "reference": "메카 북쪽의 산 중 한 곳의 꼭대기에 자리 잡고 있는 이 동굴은 세계의 나머지 지역으로부터 완전히 고립되어 있다."
+    },
+    {
+        "sentenceId": "1904",
+        "codeSwitchedSentence": "그러나 communication이 느렸기 때문에, 서부 쪽 styles는 25~30년 뒤떨어질 수 있었습니다.",
+        "reference": "그러나 정보 교환이 느렸기 때문에, 서부 쪽 양식은 25~30년 뒤떨어질 수 있었습니다."
+    },
+    {
+        "sentenceId": "1756",
+        "codeSwitchedSentence": "늦은 일요일에 United States 대통령 Trump는 press secretary를 통해 발표한 statement에서 미군이 시리아에서 철수할 것이라고 발표했다.",
+        "reference": "도널드 트럼프 미국 대통령은 늦은 일요일 시간대에 대변인을 통해 발표한 성명에서 미군이 시리아에서 철수할 것이라고 발표했다."
+    },
+    {
+        "sentenceId": "1841",
+        "codeSwitchedSentence": "맑고 아름다운 sky밖에는 surrounding mountains밖에는 보이지 않는다. 이 동굴 안에서는 바깥세상이 보이지도, 들리지도 않는다.",
+        "reference": "산을 둘러싸고 있는 맑고 아름다운 하늘밖에는 보이지 않는다. 이 동굴 안에서는 바깥세상이 보이지도, 들리지도 않는다."
+    },
+    {
+        "sentenceId": "1703",
+        "codeSwitchedSentence": "Martelly는 어제 9명으로 이뤄진 임시 선거위원회(CEP) 취임을 위한 선서를 했습니다.",
+        "reference": "마르텔리는 어제 9명으로 이뤄진 임시 선거위원회(CEP) 취임을 위한 선서를 했습니다."
+    },
+    {
+        "sentenceId": "1705",
+        "codeSwitchedSentence": "1940년 8월 15일, 연합군은 France 남부를 침략했고, 이 침략은 \"Operation Dragoon\"이라 불렸다.",
+        "reference": "\"1940년 8월 15일, 연합군은 프랑스 남부를 침략했고, 이 침략은 \"\"드래군 작전\"\"이라 불렸다. \""
+    },
+    {
+        "sentenceId": "1935",
+        "codeSwitchedSentence": "하지만, that은 true가 아닙니다. 서류 뒷면에 뭔가 적힌 게 있더라도, this는 treasure map이 아닙니다.",
+        "reference": "하지만, 그것은 사실이 아닙니다. 서류 뒷면에 뭔가 적힌 게 있더라도, 이건 보물지도가 아닙니다."
+    },
+    {
+        "sentenceId": "1850",
+        "codeSwitchedSentence": "기지국에 dual radios가 있다면, 이것이 802.11a, 802.11b와 802.11g와 backwards compatible하게 해준다.",
+        "reference": "기지국에 이중 라디오가 있다면 이것이 802.11a, 802.11b와 802.11g가 이전 기종이라도 호환할 수 있게 해준다."
+    },
+    {
+        "sentenceId": "1899",
+        "codeSwitchedSentence": "무함마드는 이러한 mundane life를 넘어서는 matters에 깊은 관심이 있었습니다. 그는 contemplation을 위해 'Noor(빛)' 산에 있는 'Hira'라고 알려진 cave를 자주 사용했습니다.",
+        "reference": "무함마드는 이러한 속세의 삶을 넘어서는 문제에 깊은 관심이 있었습니다. 그는 묵상을 위해 '누어(Noor, 빛)' 산에 있는 '히라(Hira)'라고 알려진 동굴을 자주 사용했습니다."
+    },
+    {
+        "sentenceId": "1943",
+        "codeSwitchedSentence": "긴장을 적게 할수록, life force엔 긍정적인 에너지가 더 생겨날 것이다. 모든 사람은 absolute한 평화와 contentment를 찾을 수 있는 potential을 지니고 있다.",
+        "reference": "긴장을 적게 할수록, 인생엔 긍정적인 에너지가 더 생겨날 것이다. 모든 사람은 절대적인 평화와 만족을 찾을 수 있는 능력을 지니고 있다."
+    },
+    {
+        "sentenceId": "1740",
+        "codeSwitchedSentence": "피라미드 sound와 light show는 이 지역에서 kids의 흥미를 가장 많이 끌어들이는 것들 중 하나입니다.",
+        "reference": "피라미드 사운드와 광선 쇼는 이 지역에서 어린이들의 흥미를 가장 많이 끌어들이는 것들 중 하나입니다."
+    },
+    {
+        "sentenceId": "2002",
+        "codeSwitchedSentence": "이렇게 되면 players가 장치를 허공에서 움직여 actions와 movements를 제어할 수 있게 된다.",
+        "reference": "이렇게 되면 플레이어들이 장치를 허공에서 움직여 동작과 움직임을 제어할 수 있게 된다."
+    },
+    {
+        "sentenceId": "1714",
+        "codeSwitchedSentence": "인공위성은 rocket으로 우주에 발사되었습니다. Scientists는 지구의 대기가 우리의 빛과 view를 왜곡시키기 때문에 우주에서 망원경을 사용합니다.",
+        "reference": "인공위성은 로켓으로 우주에 발사되었습니다. 과학자들은 지구의 대기가 우리의 빛과 시야를 왜곡시키기 때문에 우주에서 망원경을 사용합니다."
+    }
+]
