@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useCallback } from "react";
+import React, { useEffect, useState } from "react";
 import Table from "react-bootstrap/Table";
 import Form from "react-bootstrap/Form";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
@@ -6,6 +6,9 @@ import Button from "react-bootstrap/Button";
 import IconButton from "@mui/material/IconButton";
 import MicIcon from "@mui/icons-material/Mic";
 import StopIcon from "@mui/icons-material/Stop";
+import DeleteIcon from "@mui/icons-material/Delete";
+import FormatTextdirectionLToRIcon from "@mui/icons-material/FormatTextdirectionLToR";
+import FormatTextdirectionRToLIcon from "@mui/icons-material/FormatTextdirectionRToL";
 import { useReactMediaRecorder } from "../utils/ReactMediaRecorder";
 import { SentenceEntity } from "./types";
 import "./RecordTable.css";
@@ -47,7 +50,7 @@ const StartStopButton: React.FC<{
 const RecordCheckbox: React.FC<{
   isChecked: boolean;
   onChange: (checked: boolean) => void;
-}> = ({ isChecked, onChange, label }) => {
+}> = ({ isChecked, onChange }) => {
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     onChange(e.target.checked);
   };
@@ -72,7 +75,7 @@ const RecordTableRow: React.FC<{
   setIsRecordingElsewhere,
   updateSentenceEntity,
 }) => {
-  const { status, startRecording, stopRecording, mediaBlobUrl } =
+  const { status, startRecording, stopRecording, mediaBlobUrl, clearBlobUrl } =
     useReactMediaRecorder({ audio: true });
 
   // Update audioUrl in sentenceEntity when mediaBlobUrl changes
@@ -81,6 +84,11 @@ const RecordTableRow: React.FC<{
       updateSentenceEntity({ ...sentenceEntity, audioUrl: mediaBlobUrl });
     }
   }, [mediaBlobUrl, sentenceEntity, updateSentenceEntity]);
+
+  const handleDeleteAudio = () => {
+    clearBlobUrl();
+    updateSentenceEntity({ ...sentenceEntity, audioUrl: "" });
+  };
 
   return (
     <tr className="fs-4">
@@ -122,6 +130,9 @@ const RecordTableRow: React.FC<{
       </td>
       <td>
         <audio src={sentenceEntity.audioUrl || "#"} controls />
+        <IconButton onClick={handleDeleteAudio}>
+          <DeleteIcon />
+        </IconButton>
       </td>
       <td>
         <ButtonGroup>
@@ -144,12 +155,24 @@ const RecordTableRow: React.FC<{
   );
 };
 
-const RecordTableHeader: React.FC = () => (
+const RecordTableHeader: React.FC<{
+  direction: string;
+  toggleDirection: () => void;
+}> = ({ direction, toggleDirection }) => (
   <thead>
     <tr className="fw-bold fs-5">
       <td>No.</td>
       <td>
-        <div>Sentence to be recorded</div>
+        <div>
+          Sentence to be recorded
+          <IconButton onClick={toggleDirection}>
+            {direction === "ltr" ? (
+              <FormatTextdirectionLToRIcon color="primary" />
+            ) : (
+              <FormatTextdirectionRToLIcon color="primary" />
+            )}
+          </IconButton>
+        </div>
         <div>(Monolingual reference)</div>
       </td>
       <td>Code-switched</td>
@@ -193,6 +216,9 @@ const RecordTable: React.FC<{
   setSentences: React.Dispatch<React.SetStateAction<SentenceEntity[]>>;
 }> = ({ sentences, setSentences }) => {
   const [isRecordingElsewhere, setIsRecordingElsewhere] = useState(false);
+  const [sentenceDirection, setSentenceDirection] = useState<"ltr" | "rtl">(
+    "ltr",
+  );
 
   const updateSentenceEntity = (updatedEntity: SentenceEntity) => {
     setSentences((prev) =>
@@ -204,9 +230,20 @@ const RecordTable: React.FC<{
     );
   };
 
+  const toggleDirection = () => {
+    setSentenceDirection((prev) => (prev === "ltr" ? "rtl" : "ltr"));
+    document.documentElement.style.setProperty(
+      "--text-direction",
+      sentenceDirection === "ltr" ? "rtl" : "ltr",
+    );
+  };
+
   return (
     <Table hover>
-      <RecordTableHeader />
+      <RecordTableHeader
+        direction={sentenceDirection}
+        toggleDirection={toggleDirection}
+      />
       <RecordTableBody
         sentences={sentences}
         isRecordingElsewhere={isRecordingElsewhere}

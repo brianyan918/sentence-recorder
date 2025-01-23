@@ -53,7 +53,7 @@ const Task = () => {
         (!sentence.isCodeSwitched || !sentence.isAccurateTranslation)
       ) {
         errors.push(
-          `Sentence No. ${sentenceNo}: All recordings must have both checkboxes checked.`,
+          `Sentence No. ${sentenceNo}: The recordings must have both checkboxes checked. Either delete the audio or check the checkboxes.`,
         );
       }
       if (
@@ -73,7 +73,7 @@ const Task = () => {
     });
 
     if (errors.length > 0) {
-      setValidationError(errors.join(" "));
+      setValidationError(errors.join("\n"));
       return false;
     }
 
@@ -173,7 +173,13 @@ const Task = () => {
       <Container className="my-5 text-center">
         <TaskDescription />
         <RecordTable sentences={sentences} setSentences={setSentences} />
-        {validationError && <Alert variant="danger">{validationError}</Alert>}
+        {validationError && (
+          <Alert variant="danger">
+            {validationError.split("\n").map((msg, idx) => (
+              <div key={idx}>{msg}</div>
+            ))}
+          </Alert>
+        )}
         <Button
           type="submit"
           variant="outline-primary"
